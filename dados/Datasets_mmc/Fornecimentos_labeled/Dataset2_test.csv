@@ -1,0 +1,2319 @@
+GroupKey,PrimaryKey,RelationKey,RelationType,Date,Value,PrimaryKeyGroupAccountName,RelationKeyGroupAccountName
+M1,M1,,ROOT,2016-01,2486.5400000000004,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-02,1877.9100000000005,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-03,4034.25,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-04,1749.7799999999993,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-05,2517.61,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-06,2454.74,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-07,2139.300000000001,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-08,2991.7900000000013,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-09,2478.590000000001,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-10,1980.51,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-11,2856.43,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2016-12,5014.7999999999965,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-01,2771.06,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-02,1441.9399999999994,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-03,2029.02,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-04,1952.72,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-05,2197.67,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-06,2751.48,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-07,1880.07,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-08,1738.63,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-09,2570.7899999999995,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-10,2841.470000000001,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-11,2256.31,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2017-12,2032.27,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-01,4976.81,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-02,3277.93,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-03,2884.849999999999,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-04,3065.610000000001,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-05,4845.8,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-06,1461.09,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-07,3898.1699999999987,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-08,701.8699999999997,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-09,1149.52,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-10,885.5200000000002,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-11,1115.8,Fornecimentos e serviços externos,
+M1,M1,,ROOT,2018-12,3929.85,Fornecimentos e serviços externos,
+M1,M2,M1,CHILD,2016-01,815.3199999999997,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-02,910.06,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-03,2524.89,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-04,816.9699999999997,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-05,1701.8099999999995,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-06,1141.4399999999996,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-07,933.45,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-08,1309.48,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-09,1294.1599999999996,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-10,661.7299999999998,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-11,1713.32,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2016-12,2988.4,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-01,1942.96,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-02,656.9700000000001,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-03,1253.2600000000002,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-04,1202.72,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-05,1334.11,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-06,1962.49,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-07,1050.0699999999997,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-08,842.04,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-09,1723.89,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-10,2089.32,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-11,1388.66,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2017-12,1142.92,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-01,3151.64,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-02,1831.74,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-03,1747.04,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-04,1333.84,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-05,2503.71,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-06,70.41,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-07,946.63,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-08,40.11000000000001,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-09,25.75,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-10,745.22,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-11,524.29,Serviços especializados,Fornecimentos e serviços externos
+M1,M2,M1,CHILD,2018-12,1655.87,Serviços especializados,Fornecimentos e serviços externos
+M1,M3,M2,CHILD,2016-01,699.29,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-02,825.57,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-03,1791.8,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-04,750.15,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-05,1624.7899999999993,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-06,1073.86,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-07,861.2,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-08,1192.77,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-09,1221.76,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-10,593.6,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-11,1645.87,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2016-12,2210.1,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-01,1895.69,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-02,536.86,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-03,1179.87,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-04,1126.69,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-05,1263.76,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-06,1845.73,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-07,974.2999999999997,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-08,222.6,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-09,1627.38,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-10,1731.5,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-11,849.3600000000001,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2017-12,1050.7,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-01,3006.33,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-02,1730.35,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-03,1064.0300000000002,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-04,1249.99,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-05,1773.42,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-06,0.0,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-07,0.0,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-08,0.0,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-09,0.0,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-10,145.22,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-11,500.0,Trabalhos especializados,Serviços especializados
+M1,M3,M2,CHILD,2018-12,500.0,Trabalhos especializados,Serviços especializados
+M1,M4,M3,CHILD,2016-01,241.15,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-02,320.77,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-03,1091.8,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-04,400.15,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-05,149.67,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-06,58.3,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-08,292.77,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-09,101.76,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-10,593.6,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-11,621.37,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2016-12,2210.1,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-01,614.8,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-02,603.28,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-03,537.95,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-04,643.95,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-05,843.76,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-06,1390.72,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-07,694.2999999999997,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-08,222.6,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-09,395.38,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-10,291.5,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-11,324.36,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2017-12,630.7,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-01,1310.69,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-02,580.3499999999998,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-03,504.03,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-04,773.8,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-05,1393.9,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M4,M3,CHILD,2018-10,145.22,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-01,-169.86,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-02,84.8,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-05,845.12,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-06,735.5600000000002,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-07,21.2,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-11,184.5,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2016-12,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-01,475.89,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-02,-66.42,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-03,81.92,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-04,-73.76,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-06,-34.99,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-11,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2017-12,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2018-01,14.64,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2018-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2018-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2018-04,196.19,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M5,M3,CHILD,2018-05,29.52,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-01,628.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-02,420.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-03,700.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-04,350.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-05,630.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-06,280.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-07,840.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-08,900.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-09,1120.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-11,840.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2016-12,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-01,805.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-03,560.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-04,556.5,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-05,420.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-06,490.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-07,280.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-09,1232.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-10,1440.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-11,525.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2017-12,420.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-01,1681.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-02,1150.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-03,560.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-04,280.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-05,350.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-11,500.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M6,M3,CHILD,2018-12,500.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+M1,M7,M2,CHILD,2017-01,-0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-02,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-03,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-04,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-05,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-06,41.82,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-07,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-08,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-09,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-10,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-11,0.0,Publicidade e propaganda,Serviços especializados
+M1,M7,M2,CHILD,2017-12,7.0,Publicidade e propaganda,Serviços especializados
+M1,M8,M7,CHILD,2017-01,-0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-02,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-03,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-04,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-05,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-06,41.82,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-07,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-08,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-09,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-10,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-11,0.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M8,M7,CHILD,2017-12,7.0,User sub-account of Publicidade e propaganda,Publicidade e propaganda
+M1,M9,M2,CHILD,2016-01,29.75,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-02,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-03,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-04,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-05,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-06,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-07,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-08,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-09,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-10,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-11,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2016-12,533.34,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-01,-0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-02,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-03,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-04,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-05,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-06,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-07,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-08,533.34,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-09,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-10,266.67,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-11,466.67,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2017-12,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-01,-0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-02,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-03,600.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-04,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-05,600.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-06,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-07,946.63,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-08,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-09,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-10,600.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-11,0.0,Honorários,Serviços especializados
+M1,M9,M2,CHILD,2018-12,1112.5,Honorários,Serviços especializados
+M1,M10,M9,CHILD,2016-01,29.75,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-02,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-03,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-04,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-05,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-06,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-07,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-08,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-09,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-10,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-11,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2016-12,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-01,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-02,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-03,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-04,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-05,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-06,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-07,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-08,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-09,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-10,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-11,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2017-12,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2018-01,-0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2018-02,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2018-03,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2018-04,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2018-05,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2018-06,0.0,User sub-account of Honorários,Honorários
+M1,M10,M9,CHILD,2018-07,346.63,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2016-12,533.34,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-01,-0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-02,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-03,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-04,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-05,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-06,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-07,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-08,533.34,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-09,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-10,266.67,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-11,466.67,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2017-12,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-01,-0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-02,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-03,600.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-04,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-05,600.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-06,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-07,600.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-08,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-09,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-10,600.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-11,0.0,User sub-account of Honorários,Honorários
+M1,M11,M9,CHILD,2018-12,1112.5,User sub-account of Honorários,Honorários
+M1,M12,M2,CHILD,2017-01,-0.0,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-02,57.33,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-03,0.0,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-04,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-05,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-06,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-07,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-08,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-09,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-10,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-11,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2017-12,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2018-01,11.96,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2018-02,15.08,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2018-03,15.08,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2018-04,15.08,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2018-05,15.08,Comissões,Serviços especializados
+M1,M12,M2,CHILD,2018-06,15.08,Comissões,Serviços especializados
+M1,M13,M12,CHILD,2017-01,-0.0,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-02,57.33,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-03,0.0,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-04,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-05,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-06,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-07,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-08,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-09,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-10,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-11,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2017-12,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2018-01,11.96,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2018-02,15.08,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2018-03,15.08,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2018-04,15.08,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2018-05,15.08,User sub-account of Comissões,Comissões
+M1,M13,M12,CHILD,2018-06,15.08,User sub-account of Comissões,Comissões
+M1,M14,M2,CHILD,2016-03,692.82,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-04,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-05,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-06,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-07,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-08,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-09,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-10,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-11,0.0,Conservação e reparação,Serviços especializados
+M1,M14,M2,CHILD,2016-12,158.87,Conservação e reparação,Serviços especializados
+M1,M15,M14,CHILD,2016-12,30.95,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-03,692.82,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-04,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-05,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-06,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-07,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-08,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-09,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-10,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-11,0.0,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M16,M14,CHILD,2016-12,127.92,User sub-account of Conservação e reparação,Conservação e reparação
+M1,M17,M2,CHILD,2016-01,86.28,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-02,84.49,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-03,40.27,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-04,66.82,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-05,77.02,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-06,67.57999999999998,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-07,72.24999999999999,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-08,116.71,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-09,72.39999999999993,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-10,68.12999999999998,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-11,67.44999999999999,Outros,Serviços especializados
+M1,M17,M2,CHILD,2016-12,86.08999999999997,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-01,47.26999999999999,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-02,62.78,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-03,73.39,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-04,64.07,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-05,58.39,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-06,62.98,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-07,63.81,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-08,74.14,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-09,84.55,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-10,79.19,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-11,60.67,Outros,Serviços especializados
+M1,M17,M2,CHILD,2017-12,73.25999999999998,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-01,133.35,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-02,86.31,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-03,67.93,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-04,68.77,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-05,115.21,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-06,55.33,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-07,0.0,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-08,40.11000000000001,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-09,25.75,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-10,0.0,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-11,24.29,Outros,Serviços especializados
+M1,M17,M2,CHILD,2018-12,43.37,Outros,Serviços especializados
+M1,M18,M17,CHILD,2017-01,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-02,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-03,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-04,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-05,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-06,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-07,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-08,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-09,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-10,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-11,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2017-12,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2018-01,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2018-02,59.27,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2018-03,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2018-04,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2018-05,33.83,User sub-account of Outros,Outros
+M1,M18,M17,CHILD,2018-06,55.33,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-01,86.28,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-02,84.49,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-03,40.27,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-04,50.05,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-05,61.84,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-06,61.16,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-07,64.78,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-08,113.59,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-09,56.47,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-10,58.17,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-11,63.79,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2016-12,74.58999999999997,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-01,12.930000000000005,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-02,28.95000000000001,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-03,39.05,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-04,30.24,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-05,24.05,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-06,29.15,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-07,29.98,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-08,40.31,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-09,50.72,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-10,45.36,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-11,26.84,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2017-12,39.43,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-01,99.52,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-02,27.04,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-03,34.1,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-04,34.94,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-05,81.38,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-06,0.0,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-07,0.0,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-08,39.58000000000001,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-09,25.75,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-10,0.0,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-11,24.29,User sub-account of Outros,Outros
+M1,M19,M17,CHILD,2018-12,43.37,User sub-account of Outros,Outros
+M1,M20,M17,CHILD,2016-04,12.3,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-04,4.47,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-05,15.180000000000005,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-06,6.420000000000001,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-07,7.4700000000000015,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-08,3.12,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-09,15.930000000000005,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-10,9.96,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-11,3.66,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2016-12,11.5,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2017-01,0.51,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2017-02,0.0,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2017-03,0.51,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2017-04,0.0,User sub-account of Outros,Outros
+M1,M21,M17,CHILD,2017-05,0.51,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-01,-0.0,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-02,0.0,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-03,0.0,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-04,0.0,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-05,0.0,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-06,0.0,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-07,0.0,User sub-account of Outros,Outros
+M1,M22,M17,CHILD,2018-08,0.53,User sub-account of Outros,Outros
+M1,M23,M1,CHILD,2016-01,915.38,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-02,205.54999999999995,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-03,726.3599999999999,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-04,170.51000000000005,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-05,65.8,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-06,557.46,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-07,455.85,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-08,833.74,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-09,428.89,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-10,425.77,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-11,386.96,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2016-12,1270.25,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-01,69.8,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-02,34.97,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-03,25.76,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-04,0.0,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-05,0.0,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-06,28.99,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-07,0.0,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-08,33.03,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-09,96.9,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-10,2.15,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-11,2.69,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2017-12,0.0,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-01,1049.37,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-02,582.6300000000001,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-03,387.81000000000006,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-04,981.77,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-05,1476.2699999999998,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-06,640.6800000000002,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-07,2559.109999999999,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-08,590.16,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-09,1123.77,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-10,136.95000000000002,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-11,524.03,Materiais,Fornecimentos e serviços externos
+M1,M23,M1,CHILD,2018-12,1523.98,Materiais,Fornecimentos e serviços externos
+M1,M24,M23,CHILD,2016-09,73.92,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2016-10,200.47,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2016-11,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2016-12,219.9,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-01,54.8,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-02,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-03,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-04,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-05,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-06,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-07,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-08,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-09,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-10,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-11,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2017-12,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-01,-0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-02,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-03,13.45,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-04,223.86,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-05,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-06,90.54,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-07,251.16,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-08,97.05,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-09,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-10,43.76,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-11,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M24,M23,CHILD,2018-12,610.03,Ferramentas e utensílios de desgaste rápido,Materiais
+M1,M25,M24,CHILD,2018-01,-0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-02,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-03,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-04,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-05,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-06,9.43,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-07,28.4,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-08,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-09,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-10,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-11,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M25,M24,CHILD,2018-12,610.03,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2016-09,73.92,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2016-10,200.47,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2016-11,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2016-12,219.9,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-01,54.8,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-02,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-03,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-04,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-05,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-06,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-07,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-08,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-09,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-10,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-11,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2017-12,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-01,-0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-02,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-03,13.45,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-04,223.86,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-05,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-06,81.10999999999999,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-07,222.76,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-08,97.05,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-09,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M26,M24,CHILD,2018-10,43.76,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+M1,M27,M23,CHILD,2016-02,43.24,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-03,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-04,12.72,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-05,28.99,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-06,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-07,2.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-08,22.98,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-09,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-10,2.7,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-11,33.77,Material de escritório,Materiais
+M1,M27,M23,CHILD,2016-12,13.9,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-01,-0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-02,34.97,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-03,25.76,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-04,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-05,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-06,28.99,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-07,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-08,33.03,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-09,96.9,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-10,2.15,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-11,2.69,Material de escritório,Materiais
+M1,M27,M23,CHILD,2017-12,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-01,129.51000000000002,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-02,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-03,49.99,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-04,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-05,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-06,0.0,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-07,2.3,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-08,2.3,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-09,140.25,Material de escritório,Materiais
+M1,M27,M23,CHILD,2018-10,19.7,Material de escritório,Materiais
+M1,M28,M27,CHILD,2016-02,43.24,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-03,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-04,12.72,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-05,28.99,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-06,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-07,2.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-08,22.98,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-09,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-10,2.7,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-11,33.77,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2016-12,13.9,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-01,-0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-02,34.97,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-03,25.76,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-04,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-05,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-06,28.99,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-07,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-08,30.88,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-09,88.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-10,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-11,2.69,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2017-12,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-01,102.36,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-02,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-03,49.99,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-04,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-05,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-06,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-07,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-08,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-09,140.25,User sub-account of Material de escritório,Material de escritório
+M1,M28,M27,CHILD,2018-10,19.7,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-01,-0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-02,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-03,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-04,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-05,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-06,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-07,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-08,2.15,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-09,8.9,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-10,2.15,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-11,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2017-12,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-01,27.15,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-02,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-03,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-04,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-05,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-06,0.0,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-07,2.3,User sub-account of Material de escritório,Material de escritório
+M1,M29,M27,CHILD,2018-08,2.3,User sub-account of Material de escritório,Material de escritório
+M1,M30,M23,CHILD,2016-01,915.38,Outros,Materiais
+M1,M30,M23,CHILD,2016-02,162.31,Outros,Materiais
+M1,M30,M23,CHILD,2016-03,726.3599999999999,Outros,Materiais
+M1,M30,M23,CHILD,2016-04,157.79000000000005,Outros,Materiais
+M1,M30,M23,CHILD,2016-05,36.81,Outros,Materiais
+M1,M30,M23,CHILD,2016-06,557.46,Outros,Materiais
+M1,M30,M23,CHILD,2016-07,453.85,Outros,Materiais
+M1,M30,M23,CHILD,2016-08,810.76,Outros,Materiais
+M1,M30,M23,CHILD,2016-09,336.77,Outros,Materiais
+M1,M30,M23,CHILD,2016-10,222.6,Outros,Materiais
+M1,M30,M23,CHILD,2016-11,353.19,Outros,Materiais
+M1,M30,M23,CHILD,2016-12,1036.4499999999996,Outros,Materiais
+M1,M30,M23,CHILD,2017-01,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-02,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-03,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-04,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-05,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-06,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-07,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-08,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-09,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-10,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-11,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2017-12,0.0,Outros,Materiais
+M1,M30,M23,CHILD,2018-01,912.3599999999997,Outros,Materiais
+M1,M30,M23,CHILD,2018-02,582.6300000000001,Outros,Materiais
+M1,M30,M23,CHILD,2018-03,316.87,Outros,Materiais
+M1,M30,M23,CHILD,2018-04,692.4200000000002,Outros,Materiais
+M1,M30,M23,CHILD,2018-05,1476.2699999999998,Outros,Materiais
+M1,M30,M23,CHILD,2018-06,550.14,Outros,Materiais
+M1,M30,M23,CHILD,2018-07,2301.34,Outros,Materiais
+M1,M30,M23,CHILD,2018-08,490.80999999999983,Outros,Materiais
+M1,M30,M23,CHILD,2018-09,715.0600000000002,Outros,Materiais
+M1,M30,M23,CHILD,2018-10,71.34,Outros,Materiais
+M1,M30,M23,CHILD,2018-11,524.03,Outros,Materiais
+M1,M30,M23,CHILD,2018-12,913.95,Outros,Materiais
+M1,M31,M30,CHILD,2016-01,467.47,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-02,226.73,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-03,460.67,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-04,-190.8,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-05,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-06,333.9,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-07,331.49,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-08,680.52,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-09,225.56,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-10,222.6,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-11,149.97,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2016-12,492.13,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-01,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-02,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-03,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-04,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-05,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-06,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-07,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-08,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-09,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-10,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-11,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2017-12,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-01,468.25,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-02,152.69,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-03,14.73,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-04,95.4,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-05,707.02,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-06,550.14,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-07,1849.38,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-08,370.99999999999983,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-09,715.0600000000002,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-10,0.0,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-11,524.03,User sub-account of Outros,Outros
+M1,M31,M30,CHILD,2018-12,3.48,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-01,447.91,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-02,-64.42,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-03,265.69,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-04,348.5900000000001,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-05,36.81,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-06,223.56,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-07,122.36,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-08,130.24,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-09,111.21,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-10,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-11,203.22,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2016-12,544.32,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-01,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-02,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-03,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-04,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-05,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-06,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-07,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-08,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-09,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-10,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-11,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2017-12,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-01,444.11,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-02,429.94,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-03,302.14,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-04,426.96,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-05,769.2500000000001,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-06,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-07,451.96,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-08,119.81,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-09,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-10,71.34,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-11,0.0,User sub-account of Outros,Outros
+M1,M32,M30,CHILD,2018-12,910.47,User sub-account of Outros,Outros
+M1,M33,M30,CHILD,2018-01,-0.0,User sub-account of Outros,Outros
+M1,M33,M30,CHILD,2018-02,0.0,User sub-account of Outros,Outros
+M1,M33,M30,CHILD,2018-03,0.0,User sub-account of Outros,Outros
+M1,M33,M30,CHILD,2018-04,102.3,User sub-account of Outros,Outros
+M1,M34,M30,CHILD,2018-01,-0.0,User sub-account of Outros,Outros
+M1,M34,M30,CHILD,2018-02,0.0,User sub-account of Outros,Outros
+M1,M34,M30,CHILD,2018-03,0.0,User sub-account of Outros,Outros
+M1,M34,M30,CHILD,2018-04,67.76,User sub-account of Outros,Outros
+M1,M35,M23,CHILD,2016-09,18.2,Outros,Materiais
+M1,M35,M23,CHILD,2016-10,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2016-11,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2016-12,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-01,15.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-02,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-03,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-04,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-05,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-06,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-07,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-08,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-09,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-10,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-11,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2017-12,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2018-01,7.5,Outros,Materiais
+M1,M35,M23,CHILD,2018-02,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2018-03,7.5,Outros,Materiais
+M1,M35,M23,CHILD,2018-04,65.49,Outros,Materiais
+M1,M35,M23,CHILD,2018-05,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2018-06,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2018-07,4.31,Outros,Materiais
+M1,M35,M23,CHILD,2018-08,0.0,Outros,Materiais
+M1,M35,M23,CHILD,2018-09,268.46,Outros,Materiais
+M1,M35,M23,CHILD,2018-10,2.15,Outros,Materiais
+M1,M36,M35,CHILD,2018-01,-0.0,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-02,0.0,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-03,0.0,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-04,0.0,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-05,0.0,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-06,0.0,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-07,4.31,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-08,0.0,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-09,268.46,User sub-account of Outros,Outros
+M1,M36,M35,CHILD,2018-10,2.15,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2016-09,18.2,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2016-10,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2016-11,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2016-12,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-01,15.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-02,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-03,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-04,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-05,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-06,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-07,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-08,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-09,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-10,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-11,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2017-12,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2018-01,7.5,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2018-02,0.0,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2018-03,7.5,User sub-account of Outros,Outros
+M1,M37,M35,CHILD,2018-04,65.49,User sub-account of Outros,Outros
+M1,M38,M1,CHILD,2016-01,755.84,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-02,762.3,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-03,783.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-04,762.3,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-05,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-06,755.84,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-07,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-08,848.5699999999998,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-09,755.54,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-10,893.01,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-11,756.15,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2016-12,756.15,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-01,758.3,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-02,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-03,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-04,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-05,863.56,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-06,760.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-07,830.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-08,863.56,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-09,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-10,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-11,864.9599999999998,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2017-12,889.35,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-01,775.8,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-02,863.56,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-03,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-04,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-05,865.8199999999998,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-06,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-07,392.43,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-08,71.6,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-09,0.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-10,3.35,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-11,67.48,Serviços diversos,Fornecimentos e serviços externos
+M1,M38,M1,CHILD,2018-12,750.0,Serviços diversos,Fornecimentos e serviços externos
+M1,M39,M38,CHILD,2016-01,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-02,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-03,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-04,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-05,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-06,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-07,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-08,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-09,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-10,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-11,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2016-12,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-01,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-02,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-03,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-04,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-05,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-06,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-07,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-08,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-09,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-10,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-11,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2017-12,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-01,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-02,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-03,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-04,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-05,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-06,750.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-07,0.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-08,0.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-09,0.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-10,0.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-11,0.0,Rendas e alugueres,Serviços diversos
+M1,M39,M38,CHILD,2018-12,750.0,Rendas e alugueres,Serviços diversos
+M1,M40,M39,CHILD,2016-01,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-02,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-03,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-04,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-05,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-06,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-07,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-08,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-09,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-10,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-11,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2016-12,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-01,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-02,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-03,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-04,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-05,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-06,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-07,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-08,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-09,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-10,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-11,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2017-12,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-01,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-02,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-03,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-04,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-05,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-06,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-07,0.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-08,0.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-09,0.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-10,0.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-11,0.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M40,M39,CHILD,2018-12,750.0,User sub-account of Rendas e alugueres,Rendas e alugueres
+M1,M41,M38,CHILD,2016-01,5.84,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-02,12.3,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-03,8.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-04,12.3,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-05,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-06,5.84,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-07,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-08,6.15,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-09,5.54,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-10,12.3,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-11,6.15,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2016-12,6.15,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-01,8.3,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-02,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-03,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-04,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-05,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-06,10.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-07,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-08,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-09,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-10,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-11,1.4,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2017-12,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-01,0.8,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-02,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-03,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-04,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-05,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-06,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-07,9.55,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-08,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-09,0.0,Comunicação,Serviços diversos
+M1,M41,M38,CHILD,2018-10,3.35,Comunicação,Serviços diversos
+M1,M42,M41,CHILD,2016-03,1.6,User sub-account of Comunicação,Comunicação
+M1,M43,M41,CHILD,2016-03,6.4,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-01,5.84,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-02,12.3,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-03,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-04,12.3,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-05,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-06,5.84,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-07,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-08,6.15,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-09,5.54,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-10,12.3,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-11,6.15,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2016-12,6.15,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-01,6.15,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-02,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-03,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-04,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-05,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-06,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-07,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-08,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-09,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-10,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-11,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2017-12,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2018-01,-0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2018-02,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2018-03,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2018-04,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2018-05,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2018-06,0.0,User sub-account of Comunicação,Comunicação
+M1,M44,M41,CHILD,2018-07,1.85,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-01,2.15,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-02,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-03,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-04,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-05,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-06,10.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-07,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-08,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-09,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-10,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-11,1.4,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2017-12,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-01,0.8,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-02,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-03,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-04,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-05,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-06,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-07,7.7,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-08,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-09,0.0,User sub-account of Comunicação,Comunicação
+M1,M45,M41,CHILD,2018-10,3.35,User sub-account of Comunicação,Comunicação
+M1,M46,M38,CHILD,2016-10,130.71,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2016-11,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2016-12,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-01,-0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-02,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-03,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-04,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-05,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-06,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-07,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-08,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-09,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-10,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-11,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2017-12,139.35,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-01,-0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-02,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-03,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-04,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-05,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-06,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-07,0.0,Seguros,Serviços diversos
+M1,M46,M38,CHILD,2018-08,4.12,Seguros,Serviços diversos
+M1,M47,M46,CHILD,2016-10,130.71,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2016-11,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2016-12,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-01,-0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-02,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-03,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-04,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-05,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-06,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-07,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-08,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-09,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-10,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-11,0.0,User sub-account of Seguros,Seguros
+M1,M47,M46,CHILD,2017-12,139.35,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-01,-0.0,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-02,0.0,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-03,0.0,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-04,0.0,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-05,0.0,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-06,0.0,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-07,0.0,User sub-account of Seguros,Seguros
+M1,M48,M46,CHILD,2018-08,4.12,User sub-account of Seguros,Seguros
+M1,M49,M38,CHILD,2016-03,25.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-04,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-05,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-06,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-07,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-08,80.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-09,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-10,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-11,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2016-12,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-01,-0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-02,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-03,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-04,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-05,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-06,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-07,80.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-08,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-09,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-10,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-11,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2017-12,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2018-01,25.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2018-02,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2018-03,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2018-04,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2018-05,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2018-06,0.0,Contencioso e notariado,Serviços diversos
+M1,M49,M38,CHILD,2018-07,80.0,Contencioso e notariado,Serviços diversos
+M1,M50,M49,CHILD,2016-03,25.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-07,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-08,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-09,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-10,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-11,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2016-12,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-01,-0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-02,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-07,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-08,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-09,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-10,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-11,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2017-12,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2018-01,25.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2018-02,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2018-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2018-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2018-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2018-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M50,M49,CHILD,2018-07,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+M1,M51,M38,CHILD,2016-08,12.42,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2016-09,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2016-10,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2016-11,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2016-12,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-01,-0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-02,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-03,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-04,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-05,113.56,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-06,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-07,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-08,113.56,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-09,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-10,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-11,113.56,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2017-12,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-01,-0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-02,113.56,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-03,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-04,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-05,115.82,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-06,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-07,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-08,67.47999999999999,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-09,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-10,0.0,"Limpeza, higiene e conforto",Serviços diversos
+M1,M51,M38,CHILD,2018-11,67.48,"Limpeza, higiene e conforto",Serviços diversos
+M1,M52,M51,CHILD,2017-01,-0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-02,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-03,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-04,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-05,113.56,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-06,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-07,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-08,113.56,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-09,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-10,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-11,113.56,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2017-12,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-01,-0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-02,113.56,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-03,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-04,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-05,115.82,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-06,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-07,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-08,67.47999999999999,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-09,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-10,0.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M52,M51,CHILD,2018-11,67.48,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M53,M51,CHILD,2016-08,12.42,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+M1,M54,M38,CHILD,2018-01,-0.0,Outros serviços,Serviços diversos
+M1,M54,M38,CHILD,2018-02,0.0,Outros serviços,Serviços diversos
+M1,M54,M38,CHILD,2018-03,0.0,Outros serviços,Serviços diversos
+M1,M54,M38,CHILD,2018-04,0.0,Outros serviços,Serviços diversos
+M1,M54,M38,CHILD,2018-05,0.0,Outros serviços,Serviços diversos
+M1,M54,M38,CHILD,2018-06,0.0,Outros serviços,Serviços diversos
+M1,M54,M38,CHILD,2018-07,302.88,Outros serviços,Serviços diversos
+M1,M55,M54,CHILD,2018-01,-0.0,User sub-account of Outros serviços,Outros serviços
+M1,M55,M54,CHILD,2018-02,0.0,User sub-account of Outros serviços,Outros serviços
+M1,M55,M54,CHILD,2018-03,0.0,User sub-account of Outros serviços,Outros serviços
+M1,M55,M54,CHILD,2018-04,0.0,User sub-account of Outros serviços,Outros serviços
+M1,M55,M54,CHILD,2018-05,0.0,User sub-account of Outros serviços,Outros serviços
+M1,M55,M54,CHILD,2018-06,0.0,User sub-account of Outros serviços,Outros serviços
+M1,M55,M54,CHILD,2018-07,302.88,User sub-account of Outros serviços,Outros serviços
+K1,K1,,ROOT,2016-01,515.4699999999998,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-02,1185.75,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-03,889.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-04,869.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-05,1265.78,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-06,81.76999999999998,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-07,211.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-08,87.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-09,525.8199999999998,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-10,4480.6,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-11,1979.98,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2016-12,3380.51,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-01,1172.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-02,3778.18,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-03,3819.25,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-04,3046.9,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-05,2077.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-06,831.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-07,1451.95,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-08,1464.75,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-09,1011.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-10,2976.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-11,2725.17,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2017-12,2209.06,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-01,2298.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-02,257.0,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-03,290.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-04,14.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-05,1715.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-06,2914.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-07,780.5,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-08,460.96,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-09,225.22,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-10,20.23,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-11,18.59,Fornecimentos e serviços externos,
+K1,K1,,ROOT,2018-12,14.5,Fornecimentos e serviços externos,
+K1,K2,K1,CHILD,2016-01,225.6,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-02,223.75,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-03,653.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-04,373.5,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-05,403.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-06,50.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-07,204.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-08,0.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-09,90.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-10,2835.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-11,987.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2016-12,160.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-01,561.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-02,1672.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-03,1955.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-04,1688.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-05,2066.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-06,420.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-07,744.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-08,25.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-09,0.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-10,1565.0,Subcontratos,Fornecimentos e serviços externos
+K1,K2,K1,CHILD,2017-11,272.0,Subcontratos,Fornecimentos e serviços externos
+K1,K3,K2,CHILD,2016-01,11.5,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-02,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-03,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-04,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-05,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-06,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-07,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-08,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-09,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-10,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-11,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2016-12,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2017-01,-0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2017-02,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2017-03,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2017-04,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K3,K2,CHILD,2017-05,750.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-01,214.1,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-02,223.75,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-03,653.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-04,373.5,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-05,403.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-06,50.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-07,204.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-08,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-09,90.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-10,2835.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-11,987.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2016-12,160.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-01,561.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-02,1672.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-03,1955.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-04,1688.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-05,1316.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-06,420.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-07,744.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-08,25.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-09,0.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-10,1565.0,User sub-account of Subcontratos,Subcontratos
+K1,K4,K2,CHILD,2017-11,272.0,User sub-account of Subcontratos,Subcontratos
+K1,K5,K1,CHILD,2016-01,205.02,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-02,7.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-03,236.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-04,461.7,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-05,16.189999999999998,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-06,9.62,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-07,7.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-08,7.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-09,431.76,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-10,1625.0,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-11,992.98,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2016-12,3220.51,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-01,611.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-02,2048.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-03,1856.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-04,1349.0,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-05,11.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-06,411.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-07,611.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-08,1436.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-09,1011.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-10,1411.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-11,2453.17,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2017-12,2209.06,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-01,2298.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-02,254.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-03,290.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-04,14.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-05,1715.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-06,2914.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-07,700.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-08,460.96,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-09,225.22,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-10,20.23,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-11,18.59,Serviços especializados,Fornecimentos e serviços externos
+K1,K5,K1,CHILD,2018-12,14.5,Serviços especializados,Fornecimentos e serviços externos
+K1,K6,K5,CHILD,2016-04,450.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-05,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-06,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-07,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-08,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-09,224.26,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-10,1600.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-11,985.48,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2016-12,600.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-01,600.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-02,652.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-03,1200.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-04,600.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-05,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-06,400.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-07,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-08,250.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-09,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-10,600.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-11,600.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2017-12,1657.56,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-01,2287.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-02,240.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-03,68.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-04,0.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-05,1701.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-06,980.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-07,686.0,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-08,446.46,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-09,2.72,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-10,5.73,Trabalhos especializados,Serviços especializados
+K1,K6,K5,CHILD,2018-11,4.09,Trabalhos especializados,Serviços especializados
+K1,K7,K6,CHILD,2016-04,450.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-09,224.26,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-10,1600.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-11,985.48,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2016-12,600.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-01,600.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-02,652.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-03,1200.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-04,600.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-06,400.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-08,250.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-10,600.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-11,600.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2017-12,1612.56,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-01,792.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-02,240.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-03,-82.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-06,350.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-07,350.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-08,5.46,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-09,2.72,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-10,5.73,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K7,K6,CHILD,2018-11,4.09,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-01,-0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-11,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2017-12,45.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-01,1495.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-03,150.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-05,1701.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-06,630.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-07,336.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K8,K6,CHILD,2018-08,441.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+K1,K9,K5,CHILD,2016-01,197.52,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-02,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-03,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-04,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-05,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-06,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-07,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-08,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-09,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-10,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-11,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2016-12,2609.01,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-01,-0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-02,1385.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-03,445.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-04,737.5,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-05,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-06,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-07,600.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-08,1175.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-09,800.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-10,800.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-11,1841.67,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2017-12,540.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2018-01,-0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2018-02,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2018-03,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2018-04,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2018-05,0.0,Honorários,Serviços especializados
+K1,K9,K5,CHILD,2018-06,1920.0,Honorários,Serviços especializados
+K1,K10,K9,CHILD,2016-12,300.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-01,-0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-02,75.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-03,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-04,654.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-05,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-06,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-07,600.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-08,375.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-09,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-10,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-11,375.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2017-12,540.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2018-01,-0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2018-02,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2018-03,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2018-04,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2018-05,0.0,User sub-account of Honorários,Honorários
+K1,K10,K9,CHILD,2018-06,1920.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-01,197.52,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-02,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-03,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-04,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-05,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-06,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-07,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-08,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-09,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-10,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-11,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2016-12,2309.01,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-01,-0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-02,1310.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-03,445.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-04,83.5,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-05,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-06,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-07,0.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-08,800.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-09,800.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-10,800.0,User sub-account of Honorários,Honorários
+K1,K11,K9,CHILD,2017-11,1466.67,User sub-account of Honorários,Honorários
+K1,K12,K5,CHILD,2016-01,7.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-02,7.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-03,236.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-04,11.7,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-05,16.189999999999998,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-06,9.62,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-07,7.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-08,7.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-09,207.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-10,25.0,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-11,7.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2016-12,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-01,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-02,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-03,211.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-04,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-05,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-06,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-07,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-08,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-09,211.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-10,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-11,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2017-12,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-01,11.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-02,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-03,222.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-04,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-05,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-06,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-07,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-08,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-09,222.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-10,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-11,14.5,Outros,Serviços especializados
+K1,K12,K5,CHILD,2018-12,14.5,Outros,Serviços especializados
+K1,K13,K12,CHILD,2016-01,7.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-02,7.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-03,236.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-04,11.7,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-05,16.189999999999998,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-06,9.62,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-07,7.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-08,7.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-09,207.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-10,25.0,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-11,7.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2016-12,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-01,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-02,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-03,211.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-04,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-05,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-06,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-07,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-08,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-09,211.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-10,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-11,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2017-12,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-01,11.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-02,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-03,222.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-04,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-05,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-06,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-07,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-08,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-09,222.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-10,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-11,14.5,User sub-account of Outros,Outros
+K1,K13,K12,CHILD,2018-12,14.5,User sub-account of Outros,Outros
+K1,K14,K1,CHILD,2016-01,59.85,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-02,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-03,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-04,2.6,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-05,29.07,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-06,14.63,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-07,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-08,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-09,4.06,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-10,20.6,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-11,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2016-12,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2017-01,-0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2017-02,57.68,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2017-03,7.75,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2017-04,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2017-05,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2017-06,0.0,Materiais,Fornecimentos e serviços externos
+K1,K14,K1,CHILD,2017-07,9.74,Materiais,Fornecimentos e serviços externos
+K1,K15,K14,CHILD,2017-01,-0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+K1,K15,K14,CHILD,2017-02,2.64,Ferramentas e utensílios de desgaste rápido,Materiais
+K1,K16,K15,CHILD,2017-01,-0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+K1,K16,K15,CHILD,2017-02,2.64,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+K1,K17,K14,CHILD,2016-01,59.85,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-02,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-03,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-04,2.6,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-05,25.32,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-06,14.63,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-07,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-08,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-09,4.06,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-10,20.6,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-11,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2016-12,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2017-01,-0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2017-02,55.04,Material de escritório,Materiais
+K1,K17,K14,CHILD,2017-03,7.75,Material de escritório,Materiais
+K1,K17,K14,CHILD,2017-04,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2017-05,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2017-06,0.0,Material de escritório,Materiais
+K1,K17,K14,CHILD,2017-07,9.74,Material de escritório,Materiais
+K1,K18,K17,CHILD,2016-01,59.85,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-02,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-03,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-04,2.6,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-05,25.32,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-06,14.63,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-07,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-08,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-09,4.06,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-10,20.6,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-11,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2016-12,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2017-01,-0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2017-02,55.04,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2017-03,7.75,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2017-04,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2017-05,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2017-06,0.0,User sub-account of Material de escritório,Material de escritório
+K1,K18,K17,CHILD,2017-07,9.74,User sub-account of Material de escritório,Material de escritório
+K1,K19,K14,CHILD,2016-05,3.75,Outros,Materiais
+K1,K20,K19,CHILD,2016-05,3.75,User sub-account of Outros,Outros
+K1,K21,K1,CHILD,2016-02,954.5,"Deslocações, estadas e transportes",Fornecimentos e serviços externos
+K1,K21,K1,CHILD,2016-03,0.0,"Deslocações, estadas e transportes",Fornecimentos e serviços externos
+K1,K21,K1,CHILD,2016-04,0.0,"Deslocações, estadas e transportes",Fornecimentos e serviços externos
+K1,K21,K1,CHILD,2016-05,817.52,"Deslocações, estadas e transportes",Fornecimentos e serviços externos
+K1,K22,K21,CHILD,2016-02,954.5,Deslocações e estadas,"Deslocações, estadas e transportes"
+K1,K22,K21,CHILD,2016-03,0.0,Deslocações e estadas,"Deslocações, estadas e transportes"
+K1,K22,K21,CHILD,2016-04,0.0,Deslocações e estadas,"Deslocações, estadas e transportes"
+K1,K22,K21,CHILD,2016-05,817.52,Deslocações e estadas,"Deslocações, estadas e transportes"
+K1,K23,K22,CHILD,2016-02,954.5,User sub-account of Deslocações e estadas,Deslocações e estadas
+K1,K24,K22,CHILD,2016-05,817.52,User sub-account of Deslocações e estadas,Deslocações e estadas
+K1,K25,K1,CHILD,2016-01,25.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-02,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-03,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-04,31.7,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-05,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-06,7.52,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-07,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-08,80.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-09,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-10,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-11,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2016-12,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-01,-0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-02,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-03,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-04,9.9,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-05,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-06,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-07,86.71000000000002,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-08,3.25,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-09,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-10,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-11,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2017-12,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2018-01,-0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2018-02,2.5,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2018-03,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2018-04,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2018-05,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2018-06,0.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K25,K1,CHILD,2018-07,80.0,Serviços diversos,Fornecimentos e serviços externos
+K1,K26,K25,CHILD,2016-04,6.699999999999998,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-05,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-06,7.52,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-07,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-08,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-09,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-10,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-11,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2016-12,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-01,-0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-02,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-03,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-04,9.9,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-05,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-06,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-07,6.71,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-08,3.25,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-09,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-10,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-11,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2017-12,0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2018-01,-0.0,Comunicação,Serviços diversos
+K1,K26,K25,CHILD,2018-02,2.5,Comunicação,Serviços diversos
+K1,K27,K26,CHILD,2018-01,-0.0,User sub-account of Comunicação,Comunicação
+K1,K27,K26,CHILD,2018-02,2.5,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-01,-0.0,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-02,0.0,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-03,0.0,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-04,0.0,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-05,0.0,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-06,0.0,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-07,0.0,User sub-account of Comunicação,Comunicação
+K1,K28,K26,CHILD,2017-08,0.95,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-04,6.699999999999998,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-05,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-06,7.52,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-07,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-08,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-09,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-10,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-11,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2016-12,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-01,-0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-02,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-03,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-04,9.9,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-05,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-06,0.0,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-07,6.71,User sub-account of Comunicação,Comunicação
+K1,K29,K26,CHILD,2017-08,2.3,User sub-account of Comunicação,Comunicação
+K1,K30,K25,CHILD,2016-04,25.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-05,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-06,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-07,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-08,80.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-09,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-10,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-11,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2016-12,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-01,-0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-02,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-03,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-04,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-05,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-06,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-07,80.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-08,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-09,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-10,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-11,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2017-12,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2018-01,-0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2018-02,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2018-03,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2018-04,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2018-05,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2018-06,0.0,Contencioso e notariado,Serviços diversos
+K1,K30,K25,CHILD,2018-07,80.0,Contencioso e notariado,Serviços diversos
+K1,K31,K30,CHILD,2016-04,25.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-07,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-08,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-09,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-10,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-11,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2016-12,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-01,-0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-02,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-07,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-08,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-09,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-10,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-11,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2017-12,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2018-01,-0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2018-02,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2018-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2018-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2018-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2018-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K31,K30,CHILD,2018-07,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+K1,K32,K25,CHILD,2016-01,25.0,"Limpeza, higiene e conforto",Serviços diversos
+K1,K33,K32,CHILD,2016-01,25.0,"User sub-account of Limpeza, higiene e conforto","Limpeza, higiene e conforto"
+L1,L1,,ROOT,2016-04,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-05,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-06,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-07,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-08,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-09,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-10,42.68,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-11,80.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2016-12,-162.68,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-01,2300.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-02,540.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-03,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-04,281.97,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-05,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-06,253.18,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-07,657.12,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-08,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-09,213.18,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-10,3598.05,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-11,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2017-12,1438.18,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-01,5.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-02,40.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-03,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-04,5.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-05,0.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-06,300.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-07,105.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-08,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-09,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-10,25.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-11,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2018-12,349.5,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-01,25.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-02,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-03,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-04,875.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-05,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-06,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-07,145.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-08,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-09,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-10,25.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-11,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2019-12,1022.48,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-01,25.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-02,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-03,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-04,875.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-05,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-06,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-07,145.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-08,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-09,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-10,25.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-11,20.0,Fornecimentos e serviços externos,
+L1,L1,,ROOT,2020-12,1022.48,Fornecimentos e serviços externos,
+L1,L2,L1,CHILD,2016-04,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-05,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-06,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-07,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-08,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-09,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-10,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-11,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2016-12,-60.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-01,2300.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-02,170.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-03,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-04,281.97,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-05,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-06,213.18,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-07,405.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-08,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-09,213.18,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-10,3598.05,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-11,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2017-12,1438.18,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-01,5.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-02,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-03,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-04,5.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-05,0.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-06,300.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-07,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-08,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-09,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-10,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-11,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2018-12,349.5,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-01,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-02,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-03,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-04,875.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-05,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-06,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-07,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-08,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-09,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-10,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-11,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2019-12,1022.48,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-01,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-02,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-03,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-04,875.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-05,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-06,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-07,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-08,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-09,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-10,25.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-11,20.0,Serviços especializados,Fornecimentos e serviços externos
+L1,L2,L1,CHILD,2020-12,1022.48,Serviços especializados,Fornecimentos e serviços externos
+L1,L3,L2,CHILD,2017-01,2300.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-02,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-03,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-04,30.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-05,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-06,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-07,400.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-08,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-09,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-10,3593.05,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-11,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2017-12,1225.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-01,-0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-02,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-03,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-04,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-05,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-06,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-07,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-08,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-09,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-10,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-11,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2018-12,329.5,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-01,-0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-02,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-03,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-04,850.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-05,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-06,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-07,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-08,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-09,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-10,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-11,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2019-12,1002.48,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-01,-0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-02,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-03,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-04,850.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-05,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-06,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-07,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-08,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-09,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-10,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-11,0.0,Trabalhos especializados,Serviços especializados
+L1,L3,L2,CHILD,2020-12,1002.48,Trabalhos especializados,Serviços especializados
+L1,L4,L3,CHILD,2017-01,2300.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L4,L3,CHILD,2017-10,1124.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-01,-0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-07,400.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-10,2469.05,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-11,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2017-12,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-01,-0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-11,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2018-12,329.5,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-01,-0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-04,850.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-11,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2019-12,1002.48,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-01,-0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-04,850.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-11,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L5,L3,CHILD,2020-12,1002.48,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L6,L3,CHILD,2017-01,-0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L6,L3,CHILD,2017-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L6,L3,CHILD,2017-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L6,L3,CHILD,2017-04,30.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-01,-0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-02,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-03,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-04,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-05,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-06,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-07,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-08,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-09,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-10,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-11,0.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L7,L3,CHILD,2017-12,1225.0,User sub-account of Trabalhos especializados,Trabalhos especializados
+L1,L8,L2,CHILD,2017-01,-0.0,Honorários,Serviços especializados
+L1,L8,L2,CHILD,2017-02,150.0,Honorários,Serviços especializados
+L1,L9,L8,CHILD,2017-01,-0.0,User sub-account of Honorários,Honorários
+L1,L9,L8,CHILD,2017-02,150.0,User sub-account of Honorários,Honorários
+L1,L10,L2,CHILD,2016-04,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-05,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-06,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-07,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-08,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-09,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-10,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-11,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2016-12,-60.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-01,-0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-02,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-03,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-04,251.97,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-05,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-06,213.18,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-07,5.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-08,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-09,213.18,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-10,5.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-11,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2017-12,213.18,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-01,5.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-02,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-03,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-04,5.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-05,0.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-06,300.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-07,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-08,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-09,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-10,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-11,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2018-12,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-01,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-02,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-03,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-04,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-05,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-06,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-07,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-08,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-09,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-10,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-11,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2019-12,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-01,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-02,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-03,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-04,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-05,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-06,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-07,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-08,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-09,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-10,25.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-11,20.0,Outros,Serviços especializados
+L1,L10,L2,CHILD,2020-12,20.0,Outros,Serviços especializados
+L1,L11,L10,CHILD,2016-04,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-05,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-06,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-07,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-08,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-09,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-10,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-11,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2016-12,-60.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-01,-0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-02,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-03,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-04,5.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-05,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-06,213.18,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-07,5.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-08,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-09,213.18,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-10,5.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-11,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2017-12,213.18,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-01,5.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-02,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-03,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-04,5.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-05,0.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-06,300.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-07,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-08,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-09,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-10,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-11,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2018-12,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-01,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-02,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-03,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-04,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-05,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-06,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-07,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-08,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-09,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-10,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-11,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2019-12,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-01,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-02,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-03,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-04,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-05,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-06,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-07,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-08,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-09,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-10,25.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-11,20.0,User sub-account of Outros,Outros
+L1,L11,L10,CHILD,2020-12,20.0,User sub-account of Outros,Outros
+L1,L12,L10,CHILD,2017-01,-0.0,User sub-account of Outros,Outros
+L1,L12,L10,CHILD,2017-02,0.0,User sub-account of Outros,Outros
+L1,L12,L10,CHILD,2017-03,0.0,User sub-account of Outros,Outros
+L1,L12,L10,CHILD,2017-04,246.97,User sub-account of Outros,Outros
+L1,L13,L1,CHILD,2016-10,22.68,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2016-11,0.0,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2016-12,-22.68,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2017-01,-0.0,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2017-02,0.0,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2017-03,0.0,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2017-04,0.0,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2017-05,0.0,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2017-06,0.0,Materiais,Fornecimentos e serviços externos
+L1,L13,L1,CHILD,2017-07,172.12,Materiais,Fornecimentos e serviços externos
+L1,L14,L13,CHILD,2017-01,-0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+L1,L14,L13,CHILD,2017-02,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+L1,L14,L13,CHILD,2017-03,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+L1,L14,L13,CHILD,2017-04,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+L1,L14,L13,CHILD,2017-05,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+L1,L14,L13,CHILD,2017-06,0.0,Ferramentas e utensílios de desgaste rápido,Materiais
+L1,L14,L13,CHILD,2017-07,172.12,Ferramentas e utensílios de desgaste rápido,Materiais
+L1,L15,L14,CHILD,2017-01,-0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+L1,L15,L14,CHILD,2017-02,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+L1,L15,L14,CHILD,2017-03,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+L1,L15,L14,CHILD,2017-04,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+L1,L15,L14,CHILD,2017-05,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+L1,L15,L14,CHILD,2017-06,0.0,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+L1,L15,L14,CHILD,2017-07,172.12,User sub-account of Ferramentas e utensílios de desgaste rápido,Ferramentas e utensílios de desgaste rápido
+L1,L16,L13,CHILD,2016-10,22.68,Material de escritório,Materiais
+L1,L16,L13,CHILD,2016-11,0.0,Material de escritório,Materiais
+L1,L16,L13,CHILD,2016-12,-22.68,Material de escritório,Materiais
+L1,L17,L16,CHILD,2016-10,22.68,User sub-account of Material de escritório,Material de escritório
+L1,L17,L16,CHILD,2016-11,0.0,User sub-account of Material de escritório,Material de escritório
+L1,L17,L16,CHILD,2016-12,-22.68,User sub-account of Material de escritório,Material de escritório
+L1,L18,L1,CHILD,2016-11,80.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2016-12,-80.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-01,-0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-02,370.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-03,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-04,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-05,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-06,40.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-07,80.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-08,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-09,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-10,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-11,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2017-12,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-01,-0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-02,40.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-03,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-04,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-05,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-06,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-07,80.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-08,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-09,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-10,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-11,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2018-12,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-01,-0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-02,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-03,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-04,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-05,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-06,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-07,120.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-08,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-09,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-10,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-11,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2019-12,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2020-01,-0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2020-02,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2020-03,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2020-04,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2020-05,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2020-06,0.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L18,L1,CHILD,2020-07,120.0,Serviços diversos,Fornecimentos e serviços externos
+L1,L19,L18,CHILD,2016-11,80.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2016-12,-80.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-01,-0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-02,370.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-03,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-04,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-05,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-06,40.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-07,80.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-08,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-09,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-10,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-11,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2017-12,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-01,-0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-02,40.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-03,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-04,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-05,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-06,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-07,80.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-08,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-09,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-10,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-11,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2018-12,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-01,-0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-02,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-03,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-04,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-05,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-06,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-07,120.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-08,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-09,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-10,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-11,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2019-12,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2020-01,-0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2020-02,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2020-03,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2020-04,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2020-05,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2020-06,0.0,Contencioso e notariado,Serviços diversos
+L1,L19,L18,CHILD,2020-07,120.0,Contencioso e notariado,Serviços diversos
+L1,L20,L19,CHILD,2016-11,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2016-12,-80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-01,-0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-02,370.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-06,40.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-07,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-08,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-09,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-10,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-11,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2017-12,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-01,-0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-02,40.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-07,80.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-08,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-09,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-10,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-11,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2018-12,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-01,-0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-02,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-07,120.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-08,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-09,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-10,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-11,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2019-12,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2020-01,-0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2020-02,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2020-03,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2020-04,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2020-05,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2020-06,0.0,User sub-account of Contencioso e notariado,Contencioso e notariado
+L1,L20,L19,CHILD,2020-07,120.0,User sub-account of Contencioso e notariado,Contencioso e notariado

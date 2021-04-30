@@ -1,0 +1,960 @@
+GroupKey,PrimaryKey,RelationKey,RelationType,Date,Value,PrimaryKeyGroupAccountName,RelationKeyGroupAccountName
+M1,M1,,ROOT,2016-01,-4707.499999999999,Rendimentos,
+M1,M1,,ROOT,2016-02,-3183.65,Rendimentos,
+M1,M1,,ROOT,2016-03,-3883.049999999999,Rendimentos,
+M1,M1,,ROOT,2016-04,-2955.4,Rendimentos,
+M1,M1,,ROOT,2016-05,-4010.2,Rendimentos,
+M1,M1,,ROOT,2016-06,-3676.1,Rendimentos,
+M1,M1,,ROOT,2016-07,-5223.5999999999985,Rendimentos,
+M1,M1,,ROOT,2016-08,-3819.2,Rendimentos,
+M1,M1,,ROOT,2016-09,-3695.2,Rendimentos,
+M1,M1,,ROOT,2016-10,-5053.0,Rendimentos,
+M1,M1,,ROOT,2016-11,-3904.4999999999986,Rendimentos,
+M1,M1,,ROOT,2016-12,-16206.35,Rendimentos,
+M1,M1,,ROOT,2017-01,-6276.3499999999985,Rendimentos,
+M1,M1,,ROOT,2017-02,-2139.4,Rendimentos,
+M1,M1,,ROOT,2017-03,-6474.5999999999985,Rendimentos,
+M1,M1,,ROOT,2017-04,-3134.5,Rendimentos,
+M1,M1,,ROOT,2017-05,-3895.4,Rendimentos,
+M1,M1,,ROOT,2017-06,-4312.0,Rendimentos,
+M1,M1,,ROOT,2017-07,-2910.5,Rendimentos,
+M1,M1,,ROOT,2017-08,-3989.0,Rendimentos,
+M1,M1,,ROOT,2017-09,-5597.0,Rendimentos,
+M1,M1,,ROOT,2017-10,-3381.0,Rendimentos,
+M1,M1,,ROOT,2017-11,-4475.5,Rendimentos,
+M1,M1,,ROOT,2017-12,-12773.0,Rendimentos,
+M1,M1,,ROOT,2018-01,-2626.75,Rendimentos,
+M1,M1,,ROOT,2018-02,-6345.66,Rendimentos,
+M1,M1,,ROOT,2018-03,-4261.0,Rendimentos,
+M1,M1,,ROOT,2018-04,-4668.5,Rendimentos,
+M1,M1,,ROOT,2018-05,-11219.5,Rendimentos,
+M1,M1,,ROOT,2018-06,-4798.5,Rendimentos,
+M1,M1,,ROOT,2018-07,-7566.65,Rendimentos,
+M1,M1,,ROOT,2018-08,-5930.0,Rendimentos,
+M1,M1,,ROOT,2018-09,-4043.5,Rendimentos,
+M1,M1,,ROOT,2018-10,-4263.0,Rendimentos,
+M1,M1,,ROOT,2018-11,-7768.0,Rendimentos,
+M1,M1,,ROOT,2018-12,-7281.0,Rendimentos,
+M1,M2,M1,CHILD,2016-01,-4707.499999999999,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-02,-3183.65,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-03,-3883.049999999999,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-04,-2955.4,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-05,-4010.2,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-06,-3676.1,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-07,-3711.6,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-08,-3819.2,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-09,-3695.2,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-10,-5053.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-11,-3904.4999999999986,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2016-12,-4333.0999999999985,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-01,-6276.3499999999985,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-02,-2139.4,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-03,-6474.5999999999985,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-04,-3134.5,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-05,-3895.4,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-06,-4312.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-07,-2910.5,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-08,-3989.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-09,-5597.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-10,-3381.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-11,-4475.5,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2017-12,-7323.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-01,-2626.75,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-02,-6345.66,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-03,-4261.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-04,-4668.5,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-05,-11219.5,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-06,-4798.5,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-07,-7566.65,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-08,-5930.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-09,-4043.5,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-10,-4263.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-11,-7768.0,Prestações de serviços,Rendimentos
+M1,M2,M1,CHILD,2018-12,-7281.0,Prestações de serviços,Rendimentos
+M1,M3,M2,CHILD,2016-01,-4707.499999999999,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-02,-3183.65,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-03,-3883.049999999999,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-04,-2955.4,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-05,-4048.2,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-06,-3676.1,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-07,-3711.6,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-08,-3819.2,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-09,-3695.2,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-10,-5053.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-11,-3904.4999999999986,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2016-12,-4333.0999999999985,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-01,-6276.3499999999985,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-02,-2139.4,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-03,-6474.5999999999985,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-04,-3134.5,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-05,-3895.4,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-06,-4312.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-07,-2910.5,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-08,-3989.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-09,-5597.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-10,-3381.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-11,-4475.5,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2017-12,-7323.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-01,-2626.75,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-02,-6345.66,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-03,-4261.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-04,-4800.5,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-05,-11219.5,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-06,-4798.5,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-07,-7566.65,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-08,-6125.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-09,-4043.5,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-10,-4263.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-11,-7768.0,Serviço A,Prestações de serviços
+M1,M3,M2,CHILD,2018-12,-7281.0,Serviço A,Prestações de serviços
+M1,M4,M3,CHILD,2016-01,-4707.499999999999,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-02,-3183.65,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-03,-3883.049999999999,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-04,-2955.4,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-05,-4048.2,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-06,-3676.1,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-07,-3711.6,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-08,-3819.2,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-09,-3695.2,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-10,-5053.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-11,-3904.4999999999986,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2016-12,-4333.0999999999985,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-01,-6276.3499999999985,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-02,-2139.4,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-03,-6474.5999999999985,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-04,-3134.5,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-05,-3895.4,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-06,-4312.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-07,-2910.5,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-08,-3989.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-09,-5597.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-10,-3381.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-11,-4475.5,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2017-12,-7323.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-01,-2626.75,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-02,-6345.66,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-03,-4261.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-04,-4800.5,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-05,-11219.5,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-06,-4798.5,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-07,-7566.65,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-08,-6125.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-09,-4043.5,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-10,-4263.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-11,-7768.0,User sub-account of Serviço A,Serviço A
+M1,M4,M3,CHILD,2018-12,-7281.0,User sub-account of Serviço A,Serviço A
+M1,M5,M2,CHILD,2016-05,38.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2016-06,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2016-07,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2016-08,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2016-09,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2016-10,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2016-11,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2016-12,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-01,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-02,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-03,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-04,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-05,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-06,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-07,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-08,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-09,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-10,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-11,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2017-12,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-01,-0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-02,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-03,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-04,132.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-05,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-06,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-07,0.0,Descontos e abatimentos,Prestações de serviços
+M1,M5,M2,CHILD,2018-08,195.0,Descontos e abatimentos,Prestações de serviços
+M1,M6,M5,CHILD,2016-05,38.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2016-06,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2016-07,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2016-08,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2016-09,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2016-10,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2016-11,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2016-12,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-01,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-02,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-03,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-04,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-05,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-06,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-07,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-08,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-09,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-10,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-11,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2017-12,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-01,-0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-02,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-03,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-04,132.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-05,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-06,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-07,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M6,M5,CHILD,2018-08,195.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+M1,M7,M1,CHILD,2016-12,-11873.25,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-01,-0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-02,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-03,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-04,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-05,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-06,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-07,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-08,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-09,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-10,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-11,0.0,Variações nos inventários da produção,Rendimentos
+M1,M7,M1,CHILD,2017-12,-5450.0,Variações nos inventários da produção,Rendimentos
+M1,M8,M7,CHILD,2016-12,-11873.25,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-01,-0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-02,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-03,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-04,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-05,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-06,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-07,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-08,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-09,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-10,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-11,0.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M8,M7,CHILD,2017-12,-5450.0,Produtos e trabalhos em curso,Variações nos inventários da produção
+M1,M9,M1,CHILD,2016-07,-1512.0,Subsídios à exploração,Rendimentos
+M1,M10,M9,CHILD,2016-07,-1512.0,Subsídios das entidades públicas,Subsídios à exploração
+K1,K1,,ROOT,2016-01,-4070.0,Rendimentos,
+K1,K1,,ROOT,2016-02,-4858.0,Rendimentos,
+K1,K1,,ROOT,2016-03,-5618.0,Rendimentos,
+K1,K1,,ROOT,2016-04,-100.0,Rendimentos,
+K1,K1,,ROOT,2016-05,-2876.0,Rendimentos,
+K1,K1,,ROOT,2016-06,-1448.25,Rendimentos,
+K1,K1,,ROOT,2016-07,-100.0,Rendimentos,
+K1,K1,,ROOT,2016-08,-2075.0,Rendimentos,
+K1,K1,,ROOT,2016-09,-4930.0,Rendimentos,
+K1,K1,,ROOT,2016-10,-1513.0,Rendimentos,
+K1,K1,,ROOT,2016-11,-2379.0,Rendimentos,
+K1,K1,,ROOT,2016-12,-3230.25,Rendimentos,
+K1,K1,,ROOT,2017-01,-3536.5,Rendimentos,
+K1,K1,,ROOT,2017-02,-2651.0,Rendimentos,
+K1,K1,,ROOT,2017-03,-6517.0,Rendimentos,
+K1,K1,,ROOT,2017-04,-4518.0,Rendimentos,
+K1,K1,,ROOT,2017-05,-6010.0,Rendimentos,
+K1,K1,,ROOT,2017-06,-5150.0,Rendimentos,
+K1,K1,,ROOT,2017-07,-4577.0,Rendimentos,
+K1,K1,,ROOT,2017-08,-5917.3,Rendimentos,
+K1,K1,,ROOT,2017-09,-3838.0,Rendimentos,
+K1,K1,,ROOT,2017-10,-4903.0,Rendimentos,
+K1,K1,,ROOT,2017-11,-3807.0,Rendimentos,
+K1,K1,,ROOT,2017-12,-3810.2,Rendimentos,
+K1,K1,,ROOT,2018-01,-5353.0,Rendimentos,
+K1,K1,,ROOT,2018-02,-1025.0,Rendimentos,
+K1,K1,,ROOT,2018-03,-7609.75,Rendimentos,
+K1,K1,,ROOT,2018-04,-3360.0,Rendimentos,
+K1,K1,,ROOT,2018-05,-5629.0,Rendimentos,
+K1,K1,,ROOT,2018-06,-14189.0,Rendimentos,
+K1,K1,,ROOT,2018-07,-4685.0,Rendimentos,
+K1,K1,,ROOT,2018-08,-2662.0,Rendimentos,
+K1,K1,,ROOT,2018-09,-1890.0,Rendimentos,
+K1,K1,,ROOT,2018-10,-2480.0,Rendimentos,
+K1,K1,,ROOT,2018-11,-1755.0,Rendimentos,
+K1,K1,,ROOT,2018-12,-4148.92,Rendimentos,
+K1,K2,K1,CHILD,2016-02,-63.0,Vendas,Rendimentos
+K1,K3,K2,CHILD,2016-02,-63.0,Mercadorias,Vendas
+K1,K4,K3,CHILD,2016-02,-63.0,User sub-account of Mercadorias,Mercadorias
+K1,K5,K1,CHILD,2016-01,-4070.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-02,-4795.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-03,-5618.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-04,-100.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-05,-2876.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-06,-505.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-07,-100.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-08,-2075.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-09,-4930.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-10,-1513.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-11,-2379.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2016-12,-2287.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-01,-3536.5,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-02,-2651.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-03,-6517.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-04,-4518.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-05,-6010.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-06,-5150.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-07,-4577.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-08,-5917.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-09,-3838.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-10,-4903.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-11,-3807.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2017-12,-3810.2,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-01,-5353.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-02,-1025.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-03,-7609.75,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-04,-3360.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-05,-5629.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-06,-14189.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-07,-4685.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-08,-2662.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-09,-1890.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-10,-2480.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-11,-1755.0,Prestações de serviços,Rendimentos
+K1,K5,K1,CHILD,2018-12,-3535.0,Prestações de serviços,Rendimentos
+K1,K6,K5,CHILD,2016-01,-4070.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-02,-4795.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-03,-5816.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-04,-100.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-05,-2876.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-06,-505.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-07,-100.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-08,-2115.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-09,-4930.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-10,-1503.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-11,-2379.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2016-12,-2287.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-01,-4052.5,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-02,-2936.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-03,-6605.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-04,-4798.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-05,-6010.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-06,-5150.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-07,-4577.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-08,-5917.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-09,-4578.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-10,-4903.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-11,0.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2017-12,0.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-01,-5353.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-02,-1025.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-03,-7709.75,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-04,-3360.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-05,-5629.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-06,-14189.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-07,-4685.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-08,-2662.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-09,-1890.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-10,-2480.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-11,-1755.0,Serviço A,Prestações de serviços
+K1,K6,K5,CHILD,2018-12,-3535.0,Serviço A,Prestações de serviços
+K1,K7,K6,CHILD,2016-01,-4070.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-02,-4740.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-03,-4280.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-04,-100.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-05,-2350.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-06,-230.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-07,-100.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-08,-1935.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-09,-1590.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-10,-1320.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-11,-1430.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2016-12,-2045.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-01,-2825.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-02,-765.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-03,-4520.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-04,-2590.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-05,-4936.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-06,-5150.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-07,-2957.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-08,-5851.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-09,-4084.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-10,-3173.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-11,0.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2017-12,0.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-01,-3154.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-02,-1025.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-03,-7307.75,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-04,-3360.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-05,-3349.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-06,-13490.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-07,-4205.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-08,-2032.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-09,-1890.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-10,-2480.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-11,-1755.0,User sub-account of Serviço A,Serviço A
+K1,K7,K6,CHILD,2018-12,-3415.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-02,-55.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-03,-1536.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-04,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-05,-526.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-06,-275.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-07,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-08,-180.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-09,-3340.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-10,-183.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-11,-949.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2016-12,-242.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-01,-1227.5,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-02,-2171.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-03,-2085.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-04,-2208.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-05,-1074.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-06,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-07,-1620.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-08,-66.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-09,-494.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-10,-1730.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-11,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2017-12,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-01,-2199.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-02,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-03,-402.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-04,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-05,-2280.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-06,-699.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-07,-480.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-08,-630.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-09,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-10,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-11,0.0,User sub-account of Serviço A,Serviço A
+K1,K8,K6,CHILD,2018-12,-120.0,User sub-account of Serviço A,Serviço A
+K1,K9,K5,CHILD,2016-10,-10.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2016-11,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2016-12,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-01,-0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-02,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-03,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-04,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-05,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-06,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-07,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-08,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-09,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-10,0.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-11,-3807.0,Serviço B,Prestações de serviços
+K1,K9,K5,CHILD,2017-12,-4708.2,Serviço B,Prestações de serviços
+K1,K10,K9,CHILD,2016-10,-10.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2016-11,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2016-12,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-01,-0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-02,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-03,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-04,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-05,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-06,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-07,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-08,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-09,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-10,0.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-11,-3253.0,User sub-account of Serviço B,Serviço B
+K1,K10,K9,CHILD,2017-12,-3694.2,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-01,-0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-02,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-03,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-04,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-05,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-06,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-07,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-08,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-09,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-10,0.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-11,-554.0,User sub-account of Serviço B,Serviço B
+K1,K11,K9,CHILD,2017-12,-1014.0,User sub-account of Serviço B,Serviço B
+K1,K12,K5,CHILD,2016-03,198.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-04,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-05,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-06,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-07,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-08,40.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-09,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-10,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-11,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2016-12,-0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-01,516.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-02,285.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-03,88.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-04,280.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-05,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-06,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-07,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-08,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-09,740.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-10,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-11,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2017-12,898.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2018-01,-0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2018-02,0.0,Descontos e abatimentos,Prestações de serviços
+K1,K12,K5,CHILD,2018-03,100.0,Descontos e abatimentos,Prestações de serviços
+K1,K13,K12,CHILD,2016-08,40.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2016-09,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2016-10,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2016-11,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2016-12,-0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-01,385.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-02,285.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-03,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-04,280.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-05,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-06,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-07,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-08,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-09,740.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-10,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-11,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2017-12,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2018-01,-0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2018-02,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K13,K12,CHILD,2018-03,100.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-03,198.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-04,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-05,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-06,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-07,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-08,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-09,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-10,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-11,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2016-12,-0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-01,131.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-02,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-03,88.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-04,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-05,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-06,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-07,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-08,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-09,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-10,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-11,0.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K14,K12,CHILD,2017-12,898.0,User sub-account of Descontos e abatimentos,Descontos e abatimentos
+K1,K15,K1,CHILD,2016-06,-943.25,Subsídios à exploração,Rendimentos
+K1,K15,K1,CHILD,2016-07,0.0,Subsídios à exploração,Rendimentos
+K1,K15,K1,CHILD,2016-08,0.0,Subsídios à exploração,Rendimentos
+K1,K15,K1,CHILD,2016-09,0.0,Subsídios à exploração,Rendimentos
+K1,K15,K1,CHILD,2016-10,0.0,Subsídios à exploração,Rendimentos
+K1,K15,K1,CHILD,2016-11,0.0,Subsídios à exploração,Rendimentos
+K1,K15,K1,CHILD,2016-12,-943.25,Subsídios à exploração,Rendimentos
+K1,K16,K15,CHILD,2016-06,-943.25,Subsídios das entidades públicas,Subsídios à exploração
+K1,K16,K15,CHILD,2016-07,0.0,Subsídios das entidades públicas,Subsídios à exploração
+K1,K16,K15,CHILD,2016-08,0.0,Subsídios das entidades públicas,Subsídios à exploração
+K1,K16,K15,CHILD,2016-09,0.0,Subsídios das entidades públicas,Subsídios à exploração
+K1,K16,K15,CHILD,2016-10,0.0,Subsídios das entidades públicas,Subsídios à exploração
+K1,K16,K15,CHILD,2016-11,0.0,Subsídios das entidades públicas,Subsídios à exploração
+K1,K16,K15,CHILD,2016-12,-943.25,Subsídios das entidades públicas,Subsídios à exploração
+K1,K17,K1,CHILD,2017-01,-0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-02,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-03,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-04,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-05,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-06,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-07,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-08,-0.3,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-09,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-10,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-11,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2017-12,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-01,-0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-02,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-03,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-04,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-05,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-06,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-07,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-08,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-09,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-10,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-11,0.0,Outros rendimentos,Rendimentos
+K1,K17,K1,CHILD,2018-12,-613.92,Outros rendimentos,Rendimentos
+K1,K18,K17,CHILD,2017-01,-0.0,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K18,K17,CHILD,2017-02,0.0,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K18,K17,CHILD,2017-03,0.0,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K18,K17,CHILD,2017-04,0.0,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K18,K17,CHILD,2017-05,0.0,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K18,K17,CHILD,2017-06,0.0,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K18,K17,CHILD,2017-07,0.0,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K18,K17,CHILD,2017-08,-0.3,Descontos de pronto pagamento obtidos,Outros rendimentos
+K1,K19,K18,CHILD,2017-01,-0.0,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K19,K18,CHILD,2017-02,0.0,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K19,K18,CHILD,2017-03,0.0,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K19,K18,CHILD,2017-04,0.0,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K19,K18,CHILD,2017-05,0.0,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K19,K18,CHILD,2017-06,0.0,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K19,K18,CHILD,2017-07,0.0,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K19,K18,CHILD,2017-08,-0.3,User sub-account of Descontos de pronto pagamento obtidos,Descontos de pronto pagamento obtidos
+K1,K20,K17,CHILD,2018-01,-0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-02,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-03,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-04,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-05,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-06,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-07,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-08,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-09,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-10,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-11,0.0,Outros,Outros rendimentos
+K1,K20,K17,CHILD,2018-12,-613.92,Outros,Outros rendimentos
+K1,K21,K20,CHILD,2018-01,-0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-02,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-03,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-04,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-05,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-06,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-07,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-08,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-09,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-10,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-11,0.0,Correções relativas a períodos anteriores,Outros
+K1,K21,K20,CHILD,2018-12,-613.92,Correções relativas a períodos anteriores,Outros
+L1,L1,,ROOT,2017-01,-6000.0,Rendimentos,
+L1,L1,,ROOT,2017-02,0.0,Rendimentos,
+L1,L1,,ROOT,2017-03,0.0,Rendimentos,
+L1,L1,,ROOT,2017-04,0.0,Rendimentos,
+L1,L1,,ROOT,2017-05,0.0,Rendimentos,
+L1,L1,,ROOT,2017-06,0.0,Rendimentos,
+L1,L1,,ROOT,2017-07,0.0,Rendimentos,
+L1,L1,,ROOT,2017-08,0.0,Rendimentos,
+L1,L1,,ROOT,2017-09,0.0,Rendimentos,
+L1,L1,,ROOT,2017-10,0.0,Rendimentos,
+L1,L1,,ROOT,2017-11,0.0,Rendimentos,
+L1,L1,,ROOT,2017-12,-1463.4,Rendimentos,
+L1,L1,,ROOT,2018-01,-1400.0,Rendimentos,
+L1,L1,,ROOT,2018-02,0.0,Rendimentos,
+L1,L1,,ROOT,2018-03,0.0,Rendimentos,
+L1,L1,,ROOT,2018-04,0.0,Rendimentos,
+L1,L1,,ROOT,2018-05,0.0,Rendimentos,
+L1,L1,,ROOT,2018-06,0.0,Rendimentos,
+L1,L1,,ROOT,2018-07,0.0,Rendimentos,
+L1,L1,,ROOT,2018-08,0.0,Rendimentos,
+L1,L1,,ROOT,2018-09,0.0,Rendimentos,
+L1,L1,,ROOT,2018-10,0.0,Rendimentos,
+L1,L1,,ROOT,2018-11,0.0,Rendimentos,
+L1,L1,,ROOT,2018-12,-1463.4,Rendimentos,
+L1,L1,,ROOT,2019-01,-0.0,Rendimentos,
+L1,L1,,ROOT,2019-02,0.0,Rendimentos,
+L1,L1,,ROOT,2019-03,0.0,Rendimentos,
+L1,L1,,ROOT,2019-04,0.0,Rendimentos,
+L1,L1,,ROOT,2019-05,-797.55,Rendimentos,
+L1,L1,,ROOT,2019-06,0.0,Rendimentos,
+L1,L1,,ROOT,2019-07,0.0,Rendimentos,
+L1,L1,,ROOT,2019-08,0.0,Rendimentos,
+L1,L1,,ROOT,2019-09,0.0,Rendimentos,
+L1,L1,,ROOT,2019-10,0.0,Rendimentos,
+L1,L1,,ROOT,2019-11,0.0,Rendimentos,
+L1,L1,,ROOT,2019-12,-18089.98,Rendimentos,
+L1,L1,,ROOT,2020-01,-0.0,Rendimentos,
+L1,L1,,ROOT,2020-02,0.0,Rendimentos,
+L1,L1,,ROOT,2020-03,0.0,Rendimentos,
+L1,L1,,ROOT,2020-04,0.0,Rendimentos,
+L1,L1,,ROOT,2020-05,-797.55,Rendimentos,
+L1,L1,,ROOT,2020-06,0.0,Rendimentos,
+L1,L1,,ROOT,2020-07,0.0,Rendimentos,
+L1,L1,,ROOT,2020-08,0.0,Rendimentos,
+L1,L1,,ROOT,2020-09,0.0,Rendimentos,
+L1,L1,,ROOT,2020-10,0.0,Rendimentos,
+L1,L1,,ROOT,2020-11,0.0,Rendimentos,
+L1,L1,,ROOT,2020-12,-18089.98,Rendimentos,
+L1,L2,L1,CHILD,2017-01,-6000.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-02,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-03,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-04,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-05,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-06,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-07,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-08,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-09,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-10,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-11,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2017-12,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-01,-1400.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-02,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-03,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-04,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-05,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-06,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-07,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-08,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-09,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-10,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-11,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2018-12,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-01,-0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-02,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-03,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-04,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-05,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-06,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-07,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-08,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-09,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-10,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-11,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2019-12,-14000.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-01,-0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-02,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-03,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-04,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-05,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-06,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-07,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-08,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-09,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-10,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-11,0.0,Prestações de serviços,Rendimentos
+L1,L2,L1,CHILD,2020-12,-14000.0,Prestações de serviços,Rendimentos
+L1,L3,L2,CHILD,2017-01,-6000.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-02,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-03,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-04,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-05,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-06,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-07,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-08,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-09,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-10,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-11,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2017-12,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-01,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-02,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-03,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-04,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-05,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-06,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-07,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-08,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-09,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-10,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-11,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2018-12,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-01,-0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-02,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-03,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-04,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-05,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-06,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-07,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-08,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-09,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-10,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-11,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2019-12,-14000.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-01,-0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-02,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-03,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-04,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-05,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-06,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-07,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-08,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-09,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-10,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-11,0.0,Serviço A,Prestações de serviços
+L1,L3,L2,CHILD,2020-12,-14000.0,Serviço A,Prestações de serviços
+L1,L4,L3,CHILD,2017-01,-6000.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-02,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-03,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-04,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-05,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-06,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-07,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-08,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-09,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-10,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-11,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2017-12,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-01,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-02,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-03,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-04,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-05,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-06,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-07,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-08,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-09,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-10,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-11,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2018-12,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-01,-0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-02,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-03,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-04,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-05,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-06,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-07,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-08,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-09,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-10,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-11,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2019-12,-14000.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-01,-0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-02,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-03,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-04,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-05,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-06,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-07,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-08,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-09,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-10,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-11,0.0,User sub-account of Serviço A,Serviço A
+L1,L4,L3,CHILD,2020-12,-14000.0,User sub-account of Serviço A,Serviço A
+L1,L5,L2,CHILD,2018-01,-1400.0,Serviço B,Prestações de serviços
+L1,L6,L5,CHILD,2018-01,-1400.0,User sub-account of Serviço B,Serviço B
+L1,L7,L1,CHILD,2017-01,-0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-02,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-03,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-04,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-05,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-06,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-07,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-08,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-09,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-10,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-11,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2017-12,-1463.4,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-01,-0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-02,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-03,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-04,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-05,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-06,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-07,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-08,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-09,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-10,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-11,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2018-12,-1463.4,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-01,-0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-02,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-03,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-04,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-05,-797.55,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-06,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-07,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-08,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-09,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-10,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-11,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2019-12,-2926.8,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-01,-0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-02,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-03,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-04,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-05,-797.55,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-06,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-07,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-08,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-09,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-10,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-11,0.0,Subsídios à exploração,Rendimentos
+L1,L7,L1,CHILD,2020-12,-2926.8,Subsídios à exploração,Rendimentos
+L1,L8,L7,CHILD,2017-01,-0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-02,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-03,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-04,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-05,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-06,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-07,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-08,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-09,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-10,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-11,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2017-12,-1463.4,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-01,-0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-02,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-03,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-04,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-05,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-06,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-07,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-08,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-09,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-10,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-11,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2018-12,-1463.4,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-01,-0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-02,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-03,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-04,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-05,-797.55,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-06,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-07,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-08,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-09,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-10,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-11,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2019-12,-2926.8,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-01,-0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-02,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-03,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-04,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-05,-797.55,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-06,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-07,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-08,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-09,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-10,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-11,0.0,Subsídios das entidades públicas,Subsídios à exploração
+L1,L8,L7,CHILD,2020-12,-2926.8,Subsídios das entidades públicas,Subsídios à exploração
+L1,L9,L1,CHILD,2019-01,-0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-02,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-03,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-04,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-05,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-06,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-07,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-08,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-09,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-10,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-11,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2019-12,-1163.18,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-01,-0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-02,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-03,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-04,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-05,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-06,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-07,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-08,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-09,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-10,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-11,0.0,Outros rendimentos,Rendimentos
+L1,L9,L1,CHILD,2020-12,-1163.18,Outros rendimentos,Rendimentos
+L1,L10,L9,CHILD,2019-01,-0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-02,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-03,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-04,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-05,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-06,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-07,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-08,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-09,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-10,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-11,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2019-12,-1163.18,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-01,-0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-02,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-03,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-04,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-05,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-06,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-07,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-08,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-09,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-10,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-11,0.0,Outros,Outros rendimentos
+L1,L10,L9,CHILD,2020-12,-1163.18,Outros,Outros rendimentos
+L1,L11,L10,CHILD,2019-01,-0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-02,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-03,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-04,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-05,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-06,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-07,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-08,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-09,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-10,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-11,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2019-12,-1163.18,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-01,-0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-02,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-03,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-04,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-05,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-06,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-07,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-08,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-09,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-10,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-11,0.0,Correções relativas a períodos anteriores,Outros
+L1,L11,L10,CHILD,2020-12,-1163.18,Correções relativas a períodos anteriores,Outros

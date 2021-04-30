@@ -1,0 +1,17 @@
+PrimaryKey,Date,Dataset_Type
+M1,2018-12,Dataset1_Gastos
+L1,2017-01,Dataset1_Gastos
+L1,2017-10,Dataset1_Gastos
+L1,2019-05,Dataset1_Gastos
+L1,2020-05,Dataset1_Gastos
+M1,2016-12,Dataset2_Fornecimentos
+M1,2018-01,Dataset2_Fornecimentos
+K1,2016-10,Dataset2_Fornecimentos
+K1,2018-06,Dataset2_Fornecimentos
+L1,2017-01,Dataset2_Fornecimentos
+L1,2017-10,Dataset2_Fornecimentos
+M1,2016-12,Dataset3_Rendimentos
+M1,2017-12,Dataset3_Rendimentos
+K1,2018-06,Dataset3_Rendimentos
+L1,2019-12,Dataset3_Rendimentos
+L1,2020-12,Dataset3_Rendimentos
