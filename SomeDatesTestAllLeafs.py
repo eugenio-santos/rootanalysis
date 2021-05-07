@@ -46,10 +46,10 @@ def rootAnalysis(key, date, table, f):
 
         for c in cur:
             countAnalysis += 1
-            if (abs((c[5]*100)/rootValue) > 5):
+            if ((c[5]*100)/rootValue > 10):
                 leafCandidates.append(c)
-            else:
-                break
+            #else:
+                #break
 
         end = timeit.default_timer()
         total += end-start
