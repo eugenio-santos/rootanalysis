@@ -1,80 +1,80 @@
-ROOT: M1, date: 2018-12, $: 10328.09, time:0.007496000000000003
+ROOT: M1, date: 2018-12, $: 10328.09, time:0.015150700000000017
 leaf candidates: M5, M67, M17, 
 ###########
-Avg for Key: M1 = 0.007496000000000003 on 1 entries. 
+Avg for Key: M1 = 0.015150700000000017 on 1 entries. 
 ###########
-ROOT: L1, date: 2017-01, $: 2693.59, time:0.006013599999999994
+ROOT: L1, date: 2017-01, $: 2693.59, time:0.013676700000000014
 leaf candidates: L5, L48, 
 ###########
-Avg for Key: L1 = 0.006013599999999994 on 1 entries. 
+Avg for Key: L1 = 0.013676700000000014 on 1 entries. 
 ###########
-ROOT: L1, date: 2017-10, $: 5242.0700000000015, time:0.005923999999999999
+ROOT: L1, date: 2017-10, $: 5242.0700000000015, time:0.012894599999999978
 leaf candidates: L6, L5, L38, L24, 
 ###########
-Avg for Key: L1 = 0.005923999999999999 on 1 entries. 
+Avg for Key: L1 = 0.012894599999999978 on 1 entries. 
 ###########
-ROOT: L1, date: 2019-05, $: 3522.97, time:0.00620939999999999
+ROOT: L1, date: 2019-05, $: 3522.97, time:0.01434390000000002
 leaf candidates: L46, L24, 
 ###########
-Avg for Key: L1 = 0.00620939999999999 on 1 entries. 
+Avg for Key: L1 = 0.01434390000000002 on 1 entries. 
 ###########
-ROOT: L1, date: 2020-05, $: 3522.97, time:0.005981999999999987
+ROOT: L1, date: 2020-05, $: 3522.97, time:0.010730800000000013
 leaf candidates: L46, L24, 
 ###########
-Avg for Key: L1 = 0.005981999999999987 on 1 entries. 
+Avg for Key: L1 = 0.010730800000000013 on 1 entries. 
 ###########
-ROOT: M1, date: 2016-12, $: 5014.7999999999965, time:0.0060160999999999965
+ROOT: M1, date: 2016-12, $: 5014.7999999999965, time:0.0054155000000000175
 leaf candidates: M4, M40, M32, M11, 
 ###########
-Avg for Key: M1 = 0.0060160999999999965 on 1 entries. 
+Avg for Key: M1 = 0.0054155000000000175 on 1 entries. 
 ###########
-ROOT: M1, date: 2018-01, $: 4976.81, time:0.0036056999999999895
+ROOT: M1, date: 2018-01, $: 4976.81, time:0.006505200000000044
 leaf candidates: M6, M4, M40, 
 ###########
-Avg for Key: M1 = 0.0036056999999999895 on 1 entries. 
+Avg for Key: M1 = 0.006505200000000044 on 1 entries. 
 ###########
-ROOT: K1, date: 2016-10, $: 4480.6, time:0.003876400000000002
+ROOT: K1, date: 2016-10, $: 4480.6, time:0.006036900000000012
 leaf candidates: K4, K7, 
 ###########
-Avg for Key: K1 = 0.003876400000000002 on 1 entries. 
+Avg for Key: K1 = 0.006036900000000012 on 1 entries. 
 ###########
-ROOT: K1, date: 2018-06, $: 2914.5, time:0.004045099999999996
+ROOT: K1, date: 2018-06, $: 2914.5, time:0.0069370000000000265
 leaf candidates: K10, K8, K7, 
 ###########
-Avg for Key: K1 = 0.004045099999999996 on 1 entries. 
+Avg for Key: K1 = 0.0069370000000000265 on 1 entries. 
 ###########
-ROOT: L1, date: 2017-01, $: 2300.0, time:0.003491099999999997
+ROOT: L1, date: 2017-01, $: 2300.0, time:0.005759100000000017
 leaf candidates: L4, 
 ###########
-Avg for Key: L1 = 0.003491099999999997 on 1 entries. 
+Avg for Key: L1 = 0.005759100000000017 on 1 entries. 
 ###########
-ROOT: L1, date: 2017-10, $: 3598.05, time:0.0028609000000000273
+ROOT: L1, date: 2017-10, $: 3598.05, time:0.005525200000000008
 leaf candidates: L5, L4, 
 ###########
-Avg for Key: L1 = 0.0028609000000000273 on 1 entries. 
+Avg for Key: L1 = 0.005525200000000008 on 1 entries. 
 ###########
-ROOT: M1, date: 2016-12, $: -16206.35, time:0.001298699999999986
-leaf candidates: 
+ROOT: M1, date: 2016-12, $: -16206.35, time:0.0017237000000000502
+leaf candidates: M4, M8, 
 ###########
-Avg for Key: M1 = 0.001298699999999986 on 1 entries. 
+Avg for Key: M1 = 0.0017237000000000502 on 1 entries. 
 ###########
-ROOT: M1, date: 2017-12, $: -12773.0, time:0.0012917999999999819
-leaf candidates: 
+ROOT: M1, date: 2017-12, $: -12773.0, time:0.0015961000000000447
+leaf candidates: M8, M4, 
 ###########
-Avg for Key: M1 = 0.0012917999999999819 on 1 entries. 
+Avg for Key: M1 = 0.0015961000000000447 on 1 entries. 
 ###########
-ROOT: K1, date: 2018-06, $: -14189.0, time:0.001466299999999976
-leaf candidates: 
+ROOT: K1, date: 2018-06, $: -14189.0, time:0.0016372000000000053
+leaf candidates: K7, 
 ###########
-Avg for Key: K1 = 0.001466299999999976 on 1 entries. 
+Avg for Key: K1 = 0.0016372000000000053 on 1 entries. 
 ###########
-ROOT: L1, date: 2019-12, $: -18089.98, time:0.001446799999999998
-leaf candidates: 
+ROOT: L1, date: 2019-12, $: -18089.98, time:0.0018540000000000223
+leaf candidates: L8, L4, 
 ###########
-Avg for Key: L1 = 0.001446799999999998 on 1 entries. 
+Avg for Key: L1 = 0.0018540000000000223 on 1 entries. 
 ###########
-ROOT: L1, date: 2020-12, $: -18089.98, time:0.0014533999999999936
-leaf candidates: 
+ROOT: L1, date: 2020-12, $: -18089.98, time:0.0019839000000000384
+leaf candidates: L8, L4, 
 ###########
-Avg for Key: L1 = 0.0014533999999999936 on 1 entries. 
+Avg for Key: L1 = 0.0019839000000000384 on 1 entries. 
 ###########
