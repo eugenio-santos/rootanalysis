@@ -18,18 +18,19 @@ except mariadb.Error as e:
 cur = conn.cursor(buffered=True)
 
 
-root = 'A1'
-date = 201701
+root = 'M1'
+date = '2018-12'
+
 rootValue = 899658.4599999995
 
 print('starting for', root, date, rootValue)
 start = timeit.default_timer()
 leafCandidates = []
 
-cur.execute("SELECT * FROM ( SELECT * FROM gastos_trial WHERE gastos_trial.PrimaryKey NOT IN ( SELECT gastos_trial.RelationKey FROM gastos_trial WHERE gastos_trial.GroupKey = 'A1' AND gastos_trial.Date = 201701) AND gastos_trial.GroupKey = 'A1' AND gastos_trial.Date = 201701) AS A WHERE A.GroupKey = 'A1' AND A.Date = 201701 AND A.relationkey != '' ORDER BY VALUE DESC")
+cur.execute("SELECT * FROM ( SELECT * FROM gastos_test WHERE gastos_test.PrimaryKey NOT IN ( SELECT gastos_test.RelationKey FROM gastos_test WHERE gastos_test.GroupKey = 'M1' AND gastos_test.Date = '2018-12') AND gastos_test.GroupKey = 'M1' AND gastos_test.Date = '2018-12') AS A WHERE A.GroupKey = 'M1' AND A.Date = '2018-12' AND A.relationkey != '' ORDER BY VALUE DESC")
 
 for c in cur:
-    if ((c[5]*100)/rootValue > 50):
+    if ((c[5]*100)/rootValue > 10):
         leafCandidates.append(c)
 
 end = timeit.default_timer()
