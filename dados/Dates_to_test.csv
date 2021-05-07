@@ -1,17 +1,17 @@
-PrimaryKey,Date,Dataset_Type
-M1,2018-12,Dataset1_Gastos
-L1,2017-01,Dataset1_Gastos
-L1,2017-10,Dataset1_Gastos
-L1,2019-05,Dataset1_Gastos
-L1,2020-05,Dataset1_Gastos
-M1,2016-12,Dataset2_Fornecimentos
-M1,2018-01,Dataset2_Fornecimentos
-K1,2016-10,Dataset2_Fornecimentos
-K1,2018-06,Dataset2_Fornecimentos
-L1,2017-01,Dataset2_Fornecimentos
-L1,2017-10,Dataset2_Fornecimentos
-M1,2016-12,Dataset3_Rendimentos
-M1,2017-12,Dataset3_Rendimentos
-K1,2018-06,Dataset3_Rendimentos
-L1,2019-12,Dataset3_Rendimentos
-L1,2020-12,Dataset3_Rendimentos
+PrimaryKey,Date,Dataset_Type,root,% >,notas
+M1,2018-12,Dataset1_Gastos,"M5, M67, M17, ",10,
+L1,2017-01,Dataset1_Gastos,"L5, L48",10,
+L1,2017-10,Dataset1_Gastos,"L6, L5, L38, L24",10,
+L1,2019-05,Dataset1_Gastos,"L46, L24",10,
+L1,2020-05,Dataset1_Gastos,"L46, L24",10,
+M1,2016-12,Dataset2_Fornecimentos,"M4, M40, M32, M11",10,
+M1,2018-01,Dataset2_Fornecimentos,"M6, M4, M40",10,
+K1,2016-10,Dataset2_Fornecimentos,"K4, K7",10,
+K1,2018-06,Dataset2_Fornecimentos,"K10, K8, K7",10,
+L1,2017-01,Dataset2_Fornecimentos,L4,10,
+L1,2017-10,Dataset2_Fornecimentos,"L5, L4",10,
+M1,2016-12,Dataset3_Rendimentos,,,valor negativo
+M1,2017-12,Dataset3_Rendimentos,,,valor negativo
+K1,2018-06,Dataset3_Rendimentos,,,valor negativo
+L1,2019-12,Dataset3_Rendimentos," L11, L8, L4",5,
+L1,2020-12,Dataset3_Rendimentos," L11, L8, L4",5,
