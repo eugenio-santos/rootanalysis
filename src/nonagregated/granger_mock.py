@@ -39,7 +39,7 @@ def main(argv):
         for key in pks:
             flag = df.loc[(df['PrimaryKey'] == key), 'DerivedFlag'].values[0]
             rel = df[df['PrimaryKey'] == key][['Date', 'Value']]
-            VAR = pd.merge(root, rel, how='outer', on='Date')
+            VAR = pd.merge(root, rel, how='inner', on='Date')
 
             gc = st.grangercausalitytests(
                 VAR[['Value_x', 'Value_y']], maxlag=num_lags, verbose=False)
@@ -79,7 +79,7 @@ def main(argv):
 
     print(df_ssrf)
 
-    thresholds = range(12, 20)
+    thresholds = range(14, 18)
     tests = []
     tests += (conf_m_analysis(df_ssrf, thresholds, 'ssr_ftest'))
     #tests += (conf_m_analysis(df_ssrf, thresholds, 'ssr_chi2test'))
@@ -88,8 +88,8 @@ def main(argv):
 
     t = pd.DataFrame(tests)
     print(t)
-    print(t.sort_values(by=['kappa'], ascending=False))
-    print(t.sort_values(by=['acc'], ascending=False))
+    #print(t.sort_values(by=['kappa'], ascending=False))
+    #print(t.sort_values(by=['acc'], ascending=False))
 
 
 def conf_m_analysis(df, thresholds, m):
@@ -113,7 +113,13 @@ def conf_m_analysis(df, thresholds, m):
         kappa = cohens_kappa(TP, TN, FP, FN, T)
 
         metrics.append({'test': m, 'threshold': threshold,
-                        'acc':  acc, 'sen': sen, 'spe': spe, 'kappa': kappa})
+                        'acc':  acc, 'sen': sen, 'spe': spe, 'kappa': kappa, 'conf_m': conf_m})
+
+        # draw heat map
+        # conf_m = conf_m.apply(lambda r: r/r.sum(), axis=1)  # percentagens
+        #sn.heatmap(conf_m, annot=True, fmt='.2f')
+        # plt.show()
+
     return metrics
 
 
@@ -140,9 +146,6 @@ def cohens_kappa(TP, TN, FP, FN, T):
 
 
 # SHOW HEAT MAP DA MATRIZ DE CONFUSÃO
-# conf_m = conf_m.apply(lambda r: r/r.sum(), axis=1)  # percentagens
-# sn.heatmap(conf_m, annot=True, fmt='.2f')
-# plt.show()
 
 
 if __name__ == "__main__":

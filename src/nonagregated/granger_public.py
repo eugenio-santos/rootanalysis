@@ -86,6 +86,11 @@ def conf_m_analysis(df, thresholds, m):
         df.loc[df['score'] > threshold, ['prediction']] = 1
         conf_m = pd.crosstab(df['flag'], df['prediction'])
 
+        # SHOW HEAT MAP DA MATRIZ DE CONFUSÃO
+        #conf_m = conf_m.apply(lambda r: r/r.sum(), axis=1)  # percentagens
+        #sn.heatmap(conf_m, annot=True, fmt='.2f')
+        #plt.show()
+
         T = (len(df))
         P = len(df[df['flag'] == 1])
         N = T - P
@@ -137,11 +142,6 @@ def stationarity_trans(series):
 
 def differencing(timeseries):
     return timeseries - timeseries.shift(1)
-
-# SHOW HEAT MAP DA MATRIZ DE CONFUSÃO
-# conf_m = conf_m.apply(lambda r: r/r.sum(), axis=1)  # percentagens
-# sn.heatmap(conf_m, annot=True, fmt='.2f')
-# plt.show()
 
 
 if __name__ == "__main__":
