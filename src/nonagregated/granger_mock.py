@@ -77,9 +77,9 @@ def main(argv):
         # df_parmf = pd.concat(
         #    [df_parmf, pd.DataFrame.from_dict(_parmf, orient='index')])
 
-    print(df_ssrf)
+    # print(df_ssrf)
 
-    thresholds = range(14, 18)
+    thresholds = range(12, 18)
     tests = []
     tests += (conf_m_analysis(df_ssrf, thresholds, 'ssr_ftest'))
     #tests += (conf_m_analysis(df_ssrf, thresholds, 'ssr_chi2test'))
@@ -87,8 +87,13 @@ def main(argv):
     #tests += (conf_m_analysis(df_ssrf, thresholds, 'params_ftest'))
 
     t = pd.DataFrame(tests)
-    print(t)
-    #print(t.sort_values(by=['kappa'], ascending=False))
+    print(t.sort_values(by=['f1-score'], ascending=False))
+
+    # print(t)
+    # for _ in tests:
+    #    print(_['f1-score'])
+    #    print(_['conf_m'])
+
     #print(t.sort_values(by=['acc'], ascending=False))
 
 
@@ -107,13 +112,14 @@ def conf_m_analysis(df, thresholds, m):
         FN = conf_m[1][0]
         TP = conf_m[1][1]
 
+        f1 = f1_score(TP, FP, FN)
         acc = accuracy(TP, TN, FP, FN)
         sen = sensitivty(TP, P)
         spe = specificity(TN, N)
         kappa = cohens_kappa(TP, TN, FP, FN, T)
 
         metrics.append({'test': m, 'threshold': threshold,
-                        'acc':  acc, 'sen': sen, 'spe': spe, 'kappa': kappa, 'conf_m': conf_m})
+                        'f1-score': f1, 'acc':  acc, 'sen': sen, 'spe': spe, 'kappa': kappa})
 
         # draw heat map
         # conf_m = conf_m.apply(lambda r: r/r.sum(), axis=1)  # percentagens
@@ -145,7 +151,8 @@ def cohens_kappa(TP, TN, FP, FN, T):
     return 1-((1-accuracy(TP, TN, FP, FN)) / (1-rand_acc(TP, TN, FP, FN, T)))
 
 
-# SHOW HEAT MAP DA MATRIZ DE CONFUSÃO
+def f1_score(TP, FP, FN):
+    return TP/(TP+(FP+FN)/2)
 
 
 if __name__ == "__main__":

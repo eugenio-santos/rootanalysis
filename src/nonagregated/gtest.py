@@ -7,12 +7,17 @@ import statsmodels.tsa.stattools as st
 import seaborn as sn
 from statsmodels.tsa.stattools import kpss
 from statsmodels.tsa.stattools import adfuller
+import warnings
 
 
 def main(argv):
     statio = False
+    thresholds = range(12, 18)
+    num_lags = 15
+
     df = pd.read_csv(
-        'C:/Users/1evsa/Desktop/M/proj/rootanalysis/dados/Public_dataset/PublicDataset_train.csv')
+        'C:/Users/1evsa/Desktop/M/proj/rootanalysis/dados/Mock_dataset/MockDataset_train.csv')
+
     df['DerivedFlag'] = df['DerivedFlag'].fillna(0)  # retirar nan da coluna
     df['Date'] = df['Date'].str.replace('-', '')
     df = df.astype({'DerivedFlag': 'int32'})
@@ -21,62 +26,55 @@ def main(argv):
     df_ssrf = pd.DataFrame()
 
     groups = pd.unique(df['GroupKey'])
-    #groups = groups[:1]
+    # groups = groups[:1]
     for group in groups:
-        try:
-            print(group)
-            gr = df[df['GroupKey'] == group]
-            pks = pd.unique(gr['PrimaryKey'])
-            root = df[df['PrimaryKey'] == group][['Date', 'Value']]
-            #root = root.dropna()
+        print(group)
+        gr = df[df['GroupKey'] == group]
+        pks = pd.unique(gr['PrimaryKey'])
+        root = df[df['PrimaryKey'] == group][['Date', 'Value']]
+
+        if statio:
+            root['Value'] = stationarity_trans(root['Value'])
+
+        _ssrf = {}
+
+        pks = pks[1:]  # remove A1(root) form keys
+        for key in pks:
+            flag = df.loc[(df['PrimaryKey'] == key), 'DerivedFlag'].values[0]
+            rel = df[df['PrimaryKey'] == key][['Date', 'Value']]
+
             if statio:
                 root['Value'] = stationarity_trans(root['Value'])
-                root = root.dropna()
 
-            _ssrf = {}
+            VAR = pd.merge(root, rel, how='inner', on='Date')
 
-            num_lags = 5
-            pks = pks[1:]  # remove A1(root) form keys
-            for key in pks:
-                print(group, key)  # , len(df[df['PrimaryKey'] == key]))
-                flag = df.loc[(df['PrimaryKey'] == key),
-                              'DerivedFlag'].values[0]
-                rel = df[df['PrimaryKey'] == key][['Date', 'Value']]
-                #rel = rel.dropna()
-                if statio:
-                    rel['Value'] = stationarity_trans(rel['Value'])
-                    #rel = rel.dropna()
+            gc = st.grangercausalitytests(
+                VAR[['Value_x', 'Value_y']], maxlag=num_lags, verbose=False)
 
-                VAR = pd.merge(root, rel, how='inner', on='Date')
+            ssrf = {'score': 0, 'lag': 0, 'flag': flag, 'prediction': 0}
 
-                gc = st.grangercausalitytests(
-                    VAR[['Value_x', 'Value_y']], maxlag=num_lags, verbose=False)
+            for lag, item in gc.items():
+                if item[0]['ssr_ftest'][0] > ssrf['score']:
+                    ssrf['score'] = item[0]['ssr_ftest'][0]
+                    ssrf['lag'] = lag
 
-                ssrf = {'score': 0, 'lag': 0, 'flag': flag, 'prediction': 0}
+            _ssrf[key] = ssrf
 
-                for lag, item in gc.items():
-                    if item[0]['ssr_ftest'][0] > ssrf['score']:
-                        ssrf['score'] = item[0]['ssr_ftest'][0]
-                        ssrf['lag'] = lag
+        df_ssrf = pd.concat(
+            [df_ssrf, pd.DataFrame.from_dict(_ssrf, orient='index')])
 
-                _ssrf[key] = ssrf
-
-            df_ssrf = pd.concat(
-                [df_ssrf, pd.DataFrame.from_dict(_ssrf, orient='index')])
-        except Exception as ex:
-            print('################ EXCEPTION START ################')
-            print(ex, ex.with_traceback)
-            print(group, key)
-            print('################ EXCEPTION   END ################')
-
-    thresholds = range(1, 4)
     tests = []
     tests += (conf_m_analysis(df_ssrf, thresholds, 'ssr_ftest'))
 
     t = pd.DataFrame(tests)
-    print(t)
-    print(t.sort_values(by=['kappa'], ascending=False))
-    print(t.sort_values(by=['acc'], ascending=False))
+    print(t.sort_values(by=['f1-score'], ascending=False))
+
+    # print(t)
+    # for _ in tests:
+    #    print(_['f1-score'])
+    #    print(_['conf_m'])
+
+    # print(t.sort_values(by=['acc'], ascending=False))
 
 
 def conf_m_analysis(df, thresholds, m):
@@ -86,11 +84,6 @@ def conf_m_analysis(df, thresholds, m):
         df.loc[df['score'] > threshold, ['prediction']] = 1
         conf_m = pd.crosstab(df['flag'], df['prediction'])
 
-        # SHOW HEAT MAP DA MATRIZ DE CONFUSÃO
-        #conf_m = conf_m.apply(lambda r: r/r.sum(), axis=1)  # percentagens
-        #sn.heatmap(conf_m, annot=True, fmt='.2f')
-        #plt.show()
-
         T = (len(df))
         P = len(df[df['flag'] == 1])
         N = T - P
@@ -99,13 +92,20 @@ def conf_m_analysis(df, thresholds, m):
         FN = conf_m[1][0]
         TP = conf_m[1][1]
 
+        f1 = f1_score(TP, FP, FN)
         acc = accuracy(TP, TN, FP, FN)
         sen = sensitivty(TP, P)
         spe = specificity(TN, N)
         kappa = cohens_kappa(TP, TN, FP, FN, T)
 
-        metrics.append({'test': m, 'threshold': threshold,
+        metrics.append({'test': m, 'threshold': threshold, 'f1-score': f1,
                         'acc':  acc, 'sen': sen, 'spe': spe, 'kappa': kappa})
+
+        # draw heat map
+        # conf_m = conf_m.apply(lambda r: r/r.sum(), axis=1)  # percentagens
+        # sn.heatmap(conf_m, annot=True, fmt='.2f')
+        # plt.show()
+
     return metrics
 
 
@@ -131,6 +131,11 @@ def cohens_kappa(TP, TN, FP, FN, T):
     return 1-((1-accuracy(TP, TN, FP, FN)) / (1-rand_acc(TP, TN, FP, FN, T)))
 
 
+def f1_score(TP, FP, FN):
+    return TP/(TP+(FP+FN)/2)
+
+
+# test if series is stationary and diferrences it a maximum of 5 times
 def stationarity_trans(series):
     i = 0
     while adfuller(series, autolag='AIC')[1] < 0.05 and i < 5:
