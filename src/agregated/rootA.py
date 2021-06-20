@@ -6,17 +6,19 @@ import json
 import db_conn
 import leafAnalysis
 import lvlAnalysis
+import leafAnalysisWithGrowth
 import timeit
 
 
 def main(argv):
     num_leafs = 1
     anomaly = True
-    percentage = 0
+    percentage = 0.0
+    growth_rate = 0.0
     tabels = []
 
     try:
-        opts, args = getopt.getopt(argv, "hqlan:t:p:P:LR:", [])
+        opts, args = getopt.getopt(argv, "hqlaGn:t:p:g:P:LR:", [])
     except getopt.GetoptError:
         print('test.py -t [table names] -l <number of leafs in query> -n')
         sys.exit(2)
@@ -33,27 +35,30 @@ def main(argv):
             num_leafs = int(arg)
         elif opt in ("-p"):
             percentage = float(arg)
+        elif opt in ("-p"):
+            growth_rate = float(arg)
         elif opt in ("-a"):
             anomaly = False
 
+    cur = db_conn.maraidb_conn('root', 'root', '127.0.0.1', 3306, 'proj')
     # exec options
     for opt, arg in opts:
-        # Leaf analysis either by % or rank
+       # Leaf analysis either by % or rank
         if opt == '-q':
             print('query')
-            cur = db_conn.maraidb_conn('root', 'root',
-                                       '127.0.0.1', 3306, 'proj')
             metrics = leafAnalysis.leaf_analysis(cur, tabels, anomaly=anomaly,
                                                  num_leafs=num_leafs, percentage=percentage)
             for m in metrics:
                 print(metrics[m]['table'], metrics[m]['f1-score'])
+                print('acc: ', metrics[m]['acc'])
+                print('sen', metrics[m]['sen'])
+                print('spe', metrics[m]['spe'])
+                print('kappa', metrics[m]['kappa'])
                 print(metrics[m]['conf_m'])
 
         # Lvl analysis by %
         elif opt in ("-l"):
             print('by lvl')
-            cur = db_conn.maraidb_conn('root', 'root',
-                                       '127.0.0.1', 3306, 'proj')
             lvl_metrics = lvlAnalysis.lvl_analysis(cur, tabels, anomaly=anomaly,
                                                    percentage=percentage)
             print(lvl_metrics)
@@ -62,7 +67,6 @@ def main(argv):
         # usage [start, end, step]
         elif opt in ("-P"):
             print('Percentage benchmark')
-
             # create percentages to test
             p_arg = json.loads(arg)
             percentages = []
@@ -72,8 +76,6 @@ def main(argv):
                 percentages.append(round(percentages[i]+p_arg[2], 2))
                 i += 1
 
-            cur = db_conn.maraidb_conn('root', 'root',
-                                       '127.0.0.1', 3306, 'proj')
             for percent in percentages:
                 print(percent)
                 print(leafAnalysis.leaf_analysis(cur, tabels, anomaly=anomaly,
@@ -87,8 +89,6 @@ def main(argv):
             # create percentages to test
             ranks = json.loads(arg)
 
-            cur = db_conn.maraidb_conn('root', 'root',
-                                       '127.0.0.1', 3306, 'proj')
             for rank in range(ranks[0], ranks[1]+ranks[2], ranks[2]):
                 print(rank)
                 print(leafAnalysis.leaf_analysis(cur, tabels, anomaly=anomaly,
@@ -97,14 +97,24 @@ def main(argv):
         # comparison Lvl vs Leaf
         elif opt in ("-L"):
             print('Lvl\'s vs Leafs')
-            cur = db_conn.maraidb_conn('root', 'root',
-                                       '127.0.0.1', 3306, 'proj')
             lvl_metrics = lvlAnalysis.lvl_analysis(cur, tabels, anomaly=anomaly,
                                                    percentage=percentage)
             print(lvl_metrics)
-            leaf_metrics = leafAnalysis.leaf_analysis(cur, tabels, anomaly=anomaly,
-                                                      num_leafs=num_leafs, percentage=percentage)
+            leaf_metrics = leafAnalysis.leaf_analysis(
+                cur, tabels, anomaly=anomaly, num_leafs=num_leafs, percentage=percentage)
             print(leaf_metrics)
+        # Leaf analysis either by % or rank
+        elif opt == '-G':
+            print('query with growth')
+            metrics = leafAnalysisWithGrowth.leaf_analysis(cur,
+                                                           tabels, anomaly=anomaly, num_leafs=num_leafs, percentage=percentage, growth_rate=growth_rate)
+            for m in metrics:
+                print(metrics[m]['table'], metrics[m]['f1-score'])
+                print('acc: ', metrics[m]['acc'])
+                print('sen', metrics[m]['sen'])
+                print('spe', metrics[m]['spe'])
+                print('kappa', metrics[m]['kappa'])
+                print(metrics[m]['conf_m'])
 
 
 if __name__ == "__main__":

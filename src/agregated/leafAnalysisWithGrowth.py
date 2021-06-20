@@ -1,9 +1,12 @@
 import timeit
+import csv
+import numpy as np
 from datetime import datetime
 import pandas as pd
+from datetime import datetime, timedelta
 
 
-def leaf_analysis(cur, tables, anomaly=True, num_leafs=1, percentage=0):
+def leaf_analysis(cur, tables, anomaly=True, num_leafs=1, percentage=0, growth_rate=0):
     #now = datetime.now().strftime("%Y%m%d_%H")
     #is_percent = bool(percentage)
     metrics = {}
@@ -21,20 +24,17 @@ def leaf_analysis(cur, tables, anomaly=True, num_leafs=1, percentage=0):
         leafs = pd.DataFrame()
         for rootKey in rootKeys:
             res_leafs = get_leafs(cur, rootKey, table,
-                                  anomaly, num_leafs, percentage)
+                                  anomaly, num_leafs, percentage, growth_rate)
 
             leafs = pd.concat([leafs, res_leafs])
 
-        leafs[leafs['prediction'] == 1].to_csv(
-            'C:/Users/1evsa/Desktop/M/proj/rootanalysis/dados/rendimentos_test_results_kappa_0.1_.csv', index=False, columns=['GroupKey', 'Date', 'PrimaryKey'])
-
-        #metrics[table] = conf_m_analysis(leafs, table)
+        metrics[table] = conf_m_analysis(leafs, table)
 
     return metrics
 
 
-# gets a table and a key a returns the leafs for each date in the series
-def get_leafs(cur, key, table, anomaly, num_leafs, percentage):
+# gets a table and a key and returns the leafs for each date in the series
+def get_leafs(cur, key, table, anomaly, num_leafs, percentage, growth_rate):
 
     # selcionar as datas, sem valores = 0
     query = 'SELECT date, abs(value) FROM {} WHERE PrimaryKey ="{}" and value != 0'.format(
@@ -51,6 +51,12 @@ def get_leafs(cur, key, table, anomaly, num_leafs, percentage):
     leafs = pd.DataFrame()
     for date_value in dates:
         date = date_value[0]
+        # calculate the previous date
+        y_, m_ = date.split('-')
+        prev_date = datetime(
+            int(y_), int(m_), 1) - timedelta(days=1)
+        s_prev_date = prev_date.strftime('%Y-%m')
+
         root_value = date_value[1]
 
         query = "SELECT groupkey, primarykey, date, abs(value), anomaly, 0 AS prediction FROM ( SELECT * FROM {0} WHERE {0}.PrimaryKey NOT IN ( SELECT {0}.RelationKey FROM {0} WHERE {0}.GroupKey = '{1}' AND {0}.Date = '{2}') AND {0}.GroupKey = '{1}' AND {0}.Date = '{2}') AS A WHERE A.GroupKey = '{1}' AND A.Date = '{2}' AND A.relationkey != '' ORDER BY VALUE DESC".format(
@@ -60,18 +66,40 @@ def get_leafs(cur, key, table, anomaly, num_leafs, percentage):
 
         df = pd.DataFrame(cur.fetchall(), columns=['GroupKey', 'PrimaryKey',
                                                    'Date', 'Value',  'anomaly', 'prediction'])
-
+        probable_causes = pd.DataFrame()
+        # percentage analysis
         if percentage != 0:
-            # percentage analysis
+            # val = 503282.8899999998/899658.4599999995
             df['percentage'] = df['Value']/root_value
-            df.loc[df['percentage'] > percentage, ['prediction']] = 1
+            # se val > percent then  ['prediction']] = 1
+            probable_causes = df.loc[df['percentage']
+                                     > percentage][['PrimaryKey', 'Value']]
+            for l_key, val in probable_causes.values:
+                if evaluate_leafs_last_month(cur,
+                                             table, l_key, s_prev_date, val, growth_rate):
+                    df.loc[df['PrimaryKey'] == l_key, ['prediction']] = 1
+
+        # number of leafs
         else:
-            # number of leafs
             df.loc[df.head(int(num_leafs)).index, ['prediction']] = 1
 
         leafs = pd.concat([leafs, df])
 
     return leafs
+
+
+def evaluate_leafs_last_month(cur, table, leaf, date, value, growth_rate):
+    query = 'SELECT * FROM {0} where primaryKey = "{1}" and date = "{2}"'.format(
+        table, leaf, date)
+    cur.execute(query)
+
+    if cur.rowcount != 0:
+        prev_val = cur.fetchone()[5]
+        if prev_val and abs(value/prev_val) > growth_rate:
+            return True
+        else:
+            return False
+    return True
 
 
 # all this functions should go on a separate module maybe

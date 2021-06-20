@@ -12,11 +12,20 @@ import warnings
 
 def main(argv):
     statio = False
-    f_warnings = True
-    thresholds = range(12, 18)  # [1.1, 1.3, 1.4, 1.5, 1.6, 1.8, 1]
+    is_statio = True
+    if True:  # ignore warnings
+        warnings.catch_warnings()
+        warnings.filterwarnings("ignore")
+    #alpha = 0.05
+    #thresholds = [0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.3, 1.4, 1.5, 1.6, 1.8, 2]
+    thresholds = [0.03, 0.04, 0.05, 0.06, 0.07]
+    #thresholds = range(5, 20)
+    #file = 'C:/Users/1evsa/Desktop/M/proj/rootanalysis/dados/Public_dataset/PublicDataset_train.csv'
+
     file = 'C:/Users/1evsa/Desktop/M/proj/rootanalysis/dados/Mock_dataset/MockDataset_train.csv'
+
     # /Public_dataset/PublicDataset_train.csv' /Mock_dataset/MockDataset_train.csv
-    num_lags = 15
+    num_lags = 9
 
     df = pd.read_csv(file)
 
@@ -34,10 +43,14 @@ def main(argv):
         gr = df[df['GroupKey'] == group]
         pks = pd.unique(gr['PrimaryKey'])
         root = df[df['PrimaryKey'] == group][['Date', 'Value']]
-
+        # print(root)
         if statio:
-            root['Value'] = stationarity_trans(root['Value'])
-            #root = root.dropna()
+            is_statio, root['Value'] = stationarity_trans(root['Value'])
+            if not is_statio:
+                next
+            # root = root.dropna()
+        # print(root)
+        # return 0
 
         _ssrf = {}
 
@@ -50,49 +63,50 @@ def main(argv):
                 rel = df[df['PrimaryKey'] == key][['Date', 'Value']]
 
                 if statio:
-                    rel['Value'] = stationarity_trans(rel['Value'])
+                    is_statio, rel['Value'] = stationarity_trans(rel['Value'])
                     # rel = rel.dropna()
+                    if not is_statio:
+                        next
 
                 VAR = pd.merge(root, rel, how='inner', on='Date')
-
-                if f_warnings:  # ignore warnings
-                    warnings.catch_warnings()
-                    warnings.filterwarnings("ignore")
+                VAR = VAR.dropna()
 
                 gc = st.grangercausalitytests(
                     VAR[['Value_x', 'Value_y']], maxlag=num_lags, verbose=False)
 
-                ssrf = {'score': 0, 'lag': 0, 'flag': flag, 'prediction': 0}
+                ssrf = {'score': 0, 'p-value': 0, 'lag': 0,
+                        'flag': flag, 'prediction': 0}
 
                 for lag, item in gc.items():
                     if item[0]['ssr_ftest'][0] > ssrf['score']:
                         ssrf['score'] = item[0]['ssr_ftest'][0]
+                        ssrf['p-value'] = item[0]['ssr_ftest'][1]
                         ssrf['lag'] = lag
-
                 _ssrf[key] = ssrf
             except Exception as ex:
                 True
-                if f_warnings:
-                    print('# EXCEPTION START #')
-                    print(ex, ex.with_traceback)
-                    print(group, key)
-                    print('# EXCEPTION   END #')
+                # print('# EXCEPTION START #')
+                print('# EXCEPTION # ', ex, ex.with_traceback)
+                # print(group, key)
+                # print('# EXCEPTION   END #')
 
-            df_ssrf = pd.concat(
-                [df_ssrf, pd.DataFrame.from_dict(_ssrf, orient='index')])
-
+        df_ssrf = pd.concat(
+            [df_ssrf, pd.DataFrame.from_dict(_ssrf, orient='index')])
+    print(df_ssrf)
     tests = []
     tests += (conf_m_analysis(df_ssrf, thresholds, 'ssr_ftest'))
 
     t = pd.DataFrame(tests)
-    print(t.sort_values(by=['f1-score'], ascending=False))
+    sorted_t = t.sort_values(by=['f1-score'], ascending=False)
+    print(sorted_t)
+    print(sorted_t.head(1).iloc[0]['threshold'])
 
 
 def conf_m_analysis(df, thresholds, m):
     metrics = []
     for threshold in thresholds:
         df['prediction'] = df['prediction'] = 0
-        df.loc[df['score'] > threshold, ['prediction']] = 1
+        df.loc[df['p-value'] < threshold, ['prediction']] = 1
         conf_m = pd.crosstab(df['flag'], df['prediction'])
 
         # SHOW HEAT MAP DA MATRIZ DE CONFUSÃO
@@ -148,11 +162,20 @@ def f1_score(TP, FP, FN):
 # test if series is stationary and diferrences it a maximum of 5 times
 def stationarity_trans(series):
     i = 0
-    while adfuller(series, autolag='AIC')[1] < 0.05 and i < 5:
+    # print(adfuller(series, autolag='AIC'))
+    # print(kpss(series, regression='c', nlags="auto"))
+    #
+    while adfuller(series, autolag='AIC')[1] > 0.05 and kpss(series, regression='c', nlags="auto")[1] < 0.05 and i < 5:
         series = differencing(series)
         series = series.dropna()
+        # print(adfuller(series, autolag='AIC'))
+        # print(kpss(series, regression='c', nlags="auto"))
         i += 1
-    return series
+    if i >= 5:
+        print('ignoring')
+        return False, series
+    else:
+        return True, series
 
 
 def differencing(timeseries):
